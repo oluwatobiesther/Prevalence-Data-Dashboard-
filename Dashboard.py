@@ -21,7 +21,6 @@ alt.themes.enable("dark")
 
 @st.cache_data
 def get_data():
-    #os.chdir(r"C:\Users\Chukwuemeka\Dropbox\MTech Thesis\Work\Diabetes-analysis")
     final_data= pd.read_csv("data_with_regions.csv",encoding="ISO-8859-1")
     final_data['Number'] = pd.to_numeric(final_data['Number'])
     return final_data
