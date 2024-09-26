@@ -1,0 +1,1882 @@
+Area,Region,Year,Area_code,Number, Prevalence1 ,Prevalence
+"NHS Airedale, Wharfedale and Craven CCG",Yorkshire and the Humber,2015,E38000001,12033,0.093,9.34
+NHS Ashford CCG,South East England,2015,E38000002,8277,0.083,8.34
+NHS Aylesbury Vale CCG,South East England,2015,E38000003,12549,0.076,7.64
+NHS Barking and Dagenham CCG,London,2015,E38000004,13631,0.092,9.22
+NHS Barnet CCG,London,2015,E38000005,25808,0.086,8.57
+NHS Barnsley CCG,Yorkshire and the Humber,2015,E38000006,17198,0.088,8.82
+NHS Basildon and Brentwood CCG,East of England,2015,E38000007,17186,0.083,8.27
+NHS Bassetlaw CCG,Yorkshire and the Humber,2015,E38000008,8439,0.089,8.93
+NHS Bath and North East Somerset CCG,South West England,2015,E38000009,11200,0.074,7.36
+NHS Bedfordshire CCG,East of England,2015,E38000010,28640,0.081,8.12
+NHS Bexley CCG,London,2015,E38000011,15835,0.082,8.23
+NHS Birmingham CrossCity CCG,West Midlands,2015,E38000012,56452,0.099,9.9
+NHS Birmingham South and Central CCG,West Midlands,2015,E38000013,15781,0.099,9.91
+NHS Blackburn with Darwen CCG,North West England,2015,E38000014,10982,0.098,9.77
+NHS Blackpool CCG,North West England,2015,E38000015,11046,0.096,9.62
+NHS Bolton CCG,North West England,2015,E38000016,20428,0.092,9.16
+NHS Bracknell and Ascot CCG,South East England,2015,E38000017,7489,0.069,6.87
+NHS Bradford City CCG,Yorkshire and the Humber,2015,E38000018,6665,0.111,11.07
+NHS Bradford Districts CCG,Yorkshire and the Humber,2015,E38000019,26122,0.101,10.07
+NHS Brent CCG,London,2015,E38000020,29552,0.114,11.43
+NHS Brighton and Hove CCG,South East England,2015,E38000021,16419,0.069,6.9
+NHS Bristol CCG,South West England,2015,E38000022,26559,0.073,7.31
+NHS Bromley CCG,London,2015,E38000023,21435,0.082,8.23
+NHS Bury CCG,North West England,2015,E38000024,13006,0.087,8.66
+NHS Calderdale CCG,Yorkshire and the Humber,2015,E38000025,15116,0.09,8.99
+NHS Cambridgeshire and Peterborough CCG,East of England,2015,E38000026,55218,0.078,7.81
+NHS Camden CCG,London,2015,E38000027,15682,0.078,7.8
+NHS Cannock Chase CCG,West Midlands,2015,E38000028,9225,0.083,8.32
+NHS Canterbury and Coastal CCG,South East England,2015,E38000029,14082,0.082,8.18
+NHS Castle Point and Rochford CCG,East of England,2015,E38000030,12504,0.086,8.64
+NHS Central London (Westminster) CCG,London,2015,E38000031,11744,0.08,8.03
+NHS Central Manchester CCG,North West England,2015,E38000032,11735,0.079,7.91
+NHS Chiltern CCG,South East England,2015,E38000033,21618,0.084,8.39
+NHS Chorley and South Ribble CCG,North West England,2015,E38000034,11321,0.081,8.09
+NHS City and Hackney CCG,London,2015,E38000035,19903,0.09,9.03
+NHS Coastal West Sussex CCG,South East England,2015,E38000036,38235,0.094,9.42
+NHS Corby CCG,East Midlands,2015,E38000037,4053,0.077,7.73
+NHS Coventry and Rugby CCG,West Midlands,2015,E38000038,30576,0.085,8.54
+NHS Crawley CCG,South East England,2015,E38000039,6826,0.078,7.78
+NHS Croydon CCG,London,2015,E38000040,30994,0.104,10.42
+NHS Cumbria CCG,North West England,2015,E38000041,39117,0.093,9.3
+NHS Darlington CCG,North East England,2015,E38000042,7395,0.087,8.66
+"NHS Dartford, Gravesham and Swanley CCG",South East England,2015,E38000043,17370,0.084,8.42
+NHS Doncaster CCG,Yorkshire and the Humber,2015,E38000044,21790,0.088,8.84
+NHS Dorset CCG,South West England,2015,E38000045,57473,0.09,8.98
+NHS Dudley CCG,West Midlands,2015,E38000046,23663,0.093,9.25
+"NHS Durham Dales, Easington and Sedgefield CCG",North East England,2015,E38000047,21021,0.093,9.31
+NHS Ealing CCG,London,2015,E38000048,29145,0.107,10.68
+NHS East and North Hertfordshire CCG,East of England,2015,E38000049,34535,0.077,7.7
+NHS East Lancashire CCG,North West England,2015,E38000050,27935,0.093,9.34
+NHS East Leicestershire and Rutland CCG,East Midlands,2015,E38000051,23057,0.087,8.65
+NHS East Riding of Yorkshire CCG,Yorkshire and the Humber,2015,E38000052,23930,0.09,9.04
+NHS East Staffordshire CCG,West Midlands,2015,E38000053,8680,0.085,8.52
+NHS East Surrey CCG,South East England,2015,E38000054,11117,0.076,7.63
+"NHS Eastbourne, Hailsham and Seaford CCG",South East England,2015,E38000055,15194,0.097,9.71
+NHS Eastern Cheshire CCG,North West England,2015,E38000056,14039,0.086,8.62
+NHS Enfield CCG,London,2015,E38000057,24055,0.094,9.44
+NHS Erewash CCG,East Midlands,2015,E38000058,6586,0.084,8.36
+NHS Fareham and Gosport CCG,South East England,2015,E38000059,13324,0.081,8.13
+NHS Fylde & Wyre CCG,North West England,2015,E38000060,13628,0.097,9.67
+NHS Gloucestershire CCG,South West England,2015,E38000062,42305,0.084,8.37
+NHS Great Yarmouth and Waveney CCG,East of England,2015,E38000063,17651,0.099,9.94
+NHS Greater Huddersfield CCG,Yorkshire and the Humber,2015,E38000064,17522,0.089,8.91
+NHS Greater Preston CCG,North West England,2015,E38000065,13927,0.085,8.49
+NHS Greenwich CCG,London,2015,E38000066,17596,0.082,8.22
+NHS Guildford and Waverley CCG,South East England,2015,E38000067,12272,0.071,7.12
+NHS Halton CCG,North West England,2015,E38000068,8530,0.084,8.43
+"NHS Hambleton, Richmondshire and Whitby CCG",Yorkshire and the Humber,2015,E38000069,11204,0.088,8.81
+NHS Hammersmith and Fulham CCG,London,2015,E38000070,11267,0.076,7.55
+NHS Hardwick CCG,East Midlands,2015,E38000071,8264,0.091,9.07
+NHS Haringey CCG,London,2015,E38000072,19743,0.09,9.03
+NHS Harrogate and Rural District CCG,Yorkshire and the Humber,2015,E38000073,10664,0.083,8.29
+NHS Harrow CCG,London,2015,E38000074,21408,0.108,10.8
+NHS Hartlepool and Stockton-On-Tees CCG,North East England,2015,E38000075,19243,0.083,8.29
+NHS Hastings and Rother CCG,South East England,2015,E38000076,15386,0.101,10.07
+NHS Havering CCG,London,2015,E38000077,17292,0.086,8.61
+NHS Herefordshire CCG,West Midlands,2015,E38000078,14663,0.094,9.38
+NHS Herts Valleys CCG,East of England,2015,E38000079,36641,0.079,7.86
+"NHS Heywood, Middleton and Rochdale CCG",North West England,2015,E38000080,16076,0.096,9.57
+NHS High Weald Lewes Havens CCG,South East England,2015,E38000081,12123,0.086,8.58
+NHS Hillingdon CCG,London,2015,E38000082,20547,0.087,8.74
+NHS Horsham and Mid Sussex CCG,South East England,2015,E38000083,14132,0.076,7.62
+NHS Hounslow CCG,London,2015,E38000084,20413,0.096,9.55
+NHS Hull CCG,Yorkshire and the Humber,2015,E38000085,16471,0.079,7.92
+NHS Ipswich and East Suffolk CCG,East of England,2015,E38000086,29147,0.089,8.91
+NHS Isle of Wight CCG,South East England,2015,E38000087,11970,0.102,10.24
+NHS Islington CCG,London,2015,E38000088,13940,0.073,7.3
+NHS Kernow CCG,South West England,2015,E38000089,44779,0.098,9.76
+NHS Kingston CCG,London,2015,E38000090,9222,0.066,6.62
+NHS Knowsley CCG,North West England,2015,E38000091,10512,0.089,8.91
+NHS Lambeth CCG,London,2015,E38000092,23649,0.089,8.87
+NHS Lancashire North CCG,North West England,2015,E38000093,11007,0.082,8.21
+NHS Leeds North CCG,Yorkshire and the Humber,2015,E38000094,14579,0.09,8.96
+NHS Leeds South and East CCG,Yorkshire and the Humber,2015,E38000095,15952,0.082,8.17
+NHS Leeds West CCG,Yorkshire and the Humber,2015,E38000096,18840,0.07,7.04
+NHS Leicester City CCG,East Midlands,2015,E38000097,29194,0.109,10.89
+NHS Lewisham CCG,London,2015,E38000098,22348,0.095,9.5
+NHS Lincolnshire East CCG,East Midlands,2015,E38000099,19996,0.103,10.25
+NHS Lincolnshire West CCG,East Midlands,2015,E38000100,15778,0.082,8.16
+NHS Liverpool CCG,North West England,2015,E38000101,30911,0.078,7.84
+NHS Luton CCG,East of England,2015,E38000102,16801,0.102,10.21
+NHS Mansfield and Ashfield CCG,East Midlands,2015,E38000103,14044,0.088,8.78
+NHS Medway CCG,South East England,2015,E38000104,17496,0.079,7.92
+NHS Merton CCG,London,2015,E38000105,13324,0.081,8.12
+NHS Mid Essex CCG,East of England,2015,E38000106,25536,0.081,8.1
+NHS Milton Keynes CCG,South East England,2015,E38000107,15740,0.076,7.56
+NHS Nene CCG,East of England,2015,E38000108,42108,0.082,8.24
+NHS Newark & Sherwood CCG,East Midlands,2015,E38000109,8524,0.088,8.77
+NHS Newbury and District CCG,South East England,2015,E38000110,6326,0.075,7.46
+NHS Newcastle Gateshead CCG,North East England,2015,E38000212,31494,0.078,7.76
+NHS Newham CCG,London,2015,E38000113,26801,0.104,10.39
+NHS North & West Reading CCG,South East England,2015,E38000114,6254,0.078,7.79
+NHS North Derbyshire CCG,East Midlands,2015,E38000115,20155,0.088,8.83
+NHS North Durham CCG,North East England,2015,E38000116,16691,0.082,8.15
+NHS North East Essex CCG,East of England,2015,E38000117,23904,0.09,8.99
+NHS North East Hampshire and Farnham CCG,South East England,2015,E38000118,11984,0.072,7.16
+NHS North East Lincolnshire CCG,Yorkshire and the Humber,2015,E38000119,11318,0.087,8.74
+NHS North Hampshire CCG,South East England,2015,E38000120,13155,0.074,7.42
+NHS North Kirklees CCG,Yorkshire and the Humber,2015,E38000121,14537,0.098,9.76
+NHS North Lincolnshire CCG,Yorkshire and the Humber,2015,E38000122,12118,0.087,8.73
+NHS North Manchester CCG,North West England,2015,E38000123,10464,0.075,7.45
+NHS North Norfolk CCG,East of England,2015,E38000124,14898,0.103,10.33
+NHS North Somerset CCG,South West England,2015,E38000125,14876,0.087,8.65
+NHS North Staffordshire CCG,West Midlands,2015,E38000126,15323,0.085,8.48
+NHS North Tyneside CCG,North East England,2015,E38000127,14101,0.084,8.42
+NHS North West Surrey CCG,South East England,2015,E38000128,21416,0.078,7.75
+"NHS North, East, West Devon CCG",South West England,2015,E38000129,64861,0.088,8.79
+NHS Northumberland CCG,North East England,2015,E38000130,24421,0.093,9.25
+NHS Norwich CCG,East of England,2015,E38000131,12715,0.077,7.7
+NHS Nottingham City CCG,East Midlands,2015,E38000132,19936,0.078,7.77
+NHS Nottingham North and East CCG,East Midlands,2015,E38000133,10322,0.084,8.42
+NHS Nottingham West CCG,East Midlands,2015,E38000134,7683,0.082,8.24
+NHS Oldham CCG,North West England,2015,E38000135,16713,0.094,9.39
+NHS Oxfordshire CCG,South East England,2015,E38000136,39560,0.073,7.33
+NHS Portsmouth CCG,South East England,2015,E38000137,12342,0.072,7.21
+NHS Redbridge CCG,London,2015,E38000138,24903,0.108,10.81
+NHS Redditch and Bromsgrove CCG,West Midlands,2015,E38000139,12423,0.084,8.44
+NHS Richmond CCG,London,2015,E38000140,10927,0.07,7
+NHS Rotherham CCG,Yorkshire and the Humber,2015,E38000141,18927,0.09,8.98
+NHS Rushcliffe CCG,East Midlands,2015,E38000142,7264,0.078,7.77
+NHS Salford CCG,North West England,2015,E38000143,15281,0.078,7.78
+NHS Sandwell and West Birmingham CCG,West Midlands,2015,E38000144,43324,0.115,11.48
+NHS Scarborough and Ryedale CCG,Yorkshire and the Humber,2015,E38000145,9021,0.098,9.76
+NHS Sheffield CCG,Yorkshire and the Humber,2015,E38000146,37641,0.081,8.12
+NHS Shropshire CCG,West Midlands,2015,E38000147,23513,0.091,9.06
+NHS Slough CCG,South East England,2015,E38000148,11042,0.101,10.09
+NHS Solihull CCG,West Midlands,2015,E38000149,15203,0.089,8.92
+NHS Somerset CCG,South West England,2015,E38000150,41240,0.092,9.18
+NHS South Cheshire CCG,North West England,2015,E38000151,12161,0.083,8.32
+NHS South Devon and Torbay CCG,South West England,2015,E38000152,23363,0.1,10.03
+NHS South East Staffordshire and Seisdon Peninsula CCG,West Midlands,2015,E38000153,15743,0.085,8.46
+NHS South Eastern Hampshire CCG,South East England,2015,E38000154,14973,0.086,8.63
+NHS South Gloucestershire CCG,South West England,2015,E38000155,16843,0.075,7.54
+NHS South Kent Coast CCG,South East England,2015,E38000156,15963,0.094,9.39
+NHS South Lincolnshire CCG,East Midlands,2015,E38000157,10566,0.088,8.77
+NHS South Manchester CCG,North West England,2015,E38000158,9634,0.073,7.26
+NHS South Norfolk CCG,East of England,2015,E38000159,17908,0.09,8.99
+NHS South Reading CCG,South East England,2015,E38000160,6089,0.069,6.85
+NHS South Sefton CCG,North West England,2015,E38000161,11915,0.091,9.12
+NHS South Tees CCG,North East England,2015,E38000162,19788,0.089,8.92
+NHS South Tyneside CCG,North East England,2015,E38000163,11315,0.092,9.19
+NHS South Warwickshire CCG,West Midlands,2015,E38000164,18006,0.083,8.29
+NHS South West Lincolnshire CCG,East Midlands,2015,E38000165,8884,0.087,8.66
+NHS South Worcestershire CCG,West Midlands,2015,E38000166,21794,0.088,8.81
+NHS Southampton CCG,South East England,2015,E38000167,14405,0.071,7.1
+NHS Southend CCG,East of England,2015,E38000168,12648,0.087,8.72
+NHS Southern Derbyshire CCG,East Midlands,2015,E38000169,36807,0.087,8.67
+NHS Southport and Formby CCG,North West England,2015,E38000170,9325,0.097,9.72
+NHS Southwark CCG,London,2015,E38000171,22048,0.088,8.75
+NHS St Helens CCG,North West England,2015,E38000172,13007,0.089,8.93
+NHS Stafford and Surrounds CCG,West Midlands,2015,E38000173,10709,0.084,8.41
+NHS Stockport CCG,North West England,2015,E38000174,20114,0.086,8.62
+NHS Stoke on Trent CCG,West Midlands,2015,E38000175,18416,0.088,8.83
+NHS Sunderland CCG,North East England,2015,E38000176,19950,0.087,8.7
+NHS Surrey Downs CCG,South East England,2015,E38000177,18300,0.079,7.88
+NHS Surrey Heath CCG,South East England,2015,E38000178,5925,0.076,7.61
+NHS Sutton CCG,London,2015,E38000179,12484,0.078,7.83
+NHS Swale CCG,South East England,2015,E38000180,7603,0.085,8.51
+NHS Swindon CCG,South West England,2015,E38000181,13474,0.076,7.57
+NHS Tameside and Glossop CCG,North West England,2015,E38000182,18237,0.089,8.9
+NHS Telford and Wrekin CCG,West Midlands,2015,E38000183,11351,0.084,8.37
+NHS Thanet CCG,South East England,2015,E38000184,11000,0.097,9.69
+NHS Thurrock CCG,East of England,2015,E38000185,10152,0.079,7.89
+NHS Tower Hamlets CCG,London,2015,E38000186,19397,0.082,8.24
+NHS Trafford CCG,North West England,2015,E38000187,15334,0.083,8.25
+NHS Vale of York CCG,Yorkshire and the Humber,2015,E38000188,22143,0.075,7.48
+NHS Vale Royal CCG,North West England,2015,E38000189,6965,0.084,8.4
+NHS Wakefield CCG,Yorkshire and the Humber,2015,E38000190,23684,0.087,8.74
+NHS Walsall CCG,West Midlands,2015,E38000191,21844,0.1,10.04
+NHS Waltham Forest CCG,London,2015,E38000192,21571,0.101,10.12
+NHS Wandsworth CCG,London,2015,E38000193,18312,0.07,7.03
+NHS Warrington CCG,North West England,2015,E38000194,13249,0.079,7.87
+NHS Warwickshire North CCG,West Midlands,2015,E38000195,13644,0.089,8.86
+NHS West Cheshire CCG,North West England,2015,E38000196,15977,0.084,8.35
+NHS West Essex CCG,East of England,2015,E38000197,19893,0.082,8.24
+NHS West Hampshire CCG,South East England,2015,E38000198,37779,0.083,8.28
+NHS West Kent CCG,South East England,2015,E38000199,29745,0.078,7.79
+NHS West Lancashire CCG,North West England,2015,E38000200,7888,0.085,8.51
+NHS West Leicestershire CCG,East Midlands,2015,E38000201,25447,0.08,8.01
+NHS West London CCG,London,2015,E38000202,15742,0.084,8.37
+NHS West Norfolk CCG,East of England,2015,E38000203,14568,0.101,10.07
+NHS West Suffolk CCG,East of England,2015,E38000204,15800,0.086,8.55
+NHS Wigan Borough CCG,North West England,2015,E38000205,21768,0.083,8.32
+NHS Wiltshire CCG,South West England,2015,E38000206,32304,0.082,8.2
+"NHS Windsor, Ascot and Maidenhead CCG",South East England,2015,E38000207,8774,0.076,7.64
+NHS Wirral CCG,North West England,2015,E38000208,23439,0.09,8.97
+NHS Wokingham CCG,South East England,2015,E38000209,9292,0.073,7.29
+NHS Wolverhampton CCG,West Midlands,2015,E38000210,22294,0.11,11.02
+NHS Wyre Forest CCG,West Midlands,2015,E38000211,7693,0.094,9.39
+"NHS Airedale, Wharfedale and Craven CCG",Yorkshire and the Humber,2016,E38000001,12191,0.094,9.4
+NHS Ashford CCG,South East England,2016,E38000002,8433,0.084,8.4
+NHS Aylesbury Vale CCG,South East England,2016,E38000003,12777,0.077,7.7
+NHS Barking and Dagenham CCG,London,2016,E38000004,13838,0.092,9.2
+NHS Barnet CCG,London,2016,E38000005,26376,0.086,8.6
+NHS Barnsley CCG,Yorkshire and the Humber,2016,E38000006,17480,0.089,8.9
+NHS Basildon and Brentwood CCG,East of England,2016,E38000007,17326,0.083,8.3
+NHS Bassetlaw CCG,Yorkshire and the Humber,2016,E38000008,8534,0.09,9
+NHS Bath and North East Somerset CCG,South West England,2016,E38000009,11320,0.074,7.4
+NHS Bedfordshire CCG,East of England,2016,E38000010,29267,0.082,8.2
+NHS Bexley CCG,London,2016,E38000011,16015,0.083,8.3
+NHS Birmingham CrossCity CCG,West Midlands,2016,E38000012,56993,0.099,9.9
+NHS Birmingham South and Central CCG,West Midlands,2016,E38000013,15867,0.099,9.9
+NHS Blackburn with Darwen CCG,North West England,2016,E38000014,11097,0.099,9.9
+NHS Blackpool CCG,North West England,2016,E38000015,11093,0.097,9.7
+NHS Bolton CCG,North West England,2016,E38000016,20700,0.092,9.2
+NHS Bracknell and Ascot CCG,South East England,2016,E38000017,7606,0.069,6.9
+NHS Bradford City CCG,Yorkshire and the Humber,2016,E38000018,6719,0.111,11.1
+NHS Bradford Districts CCG,Yorkshire and the Humber,2016,E38000019,26428,0.101,10.1
+NHS Brent CCG,London,2016,E38000020,30231,0.115,11.5
+NHS Brighton and Hove CCG,South East England,2016,E38000021,16612,0.069,6.9
+NHS Bristol CCG,South West England,2016,E38000022,26863,0.073,7.3
+NHS Bromley CCG,London,2016,E38000023,21690,0.083,8.3
+NHS Bury CCG,North West England,2016,E38000024,13166,0.087,8.7
+NHS Calderdale CCG,Yorkshire and the Humber,2016,E38000025,15271,0.09,9
+NHS Cambridgeshire and Peterborough CCG,East of England,2016,E38000026,56146,0.079,7.9
+NHS Camden CCG,London,2016,E38000027,16085,0.078,7.8
+NHS Cannock Chase CCG,West Midlands,2016,E38000028,9301,0.084,8.4
+NHS Canterbury and Coastal CCG,South East England,2016,E38000029,14291,0.082,8.2
+NHS Castle Point and Rochford CCG,East of England,2016,E38000030,12689,0.087,8.7
+NHS Central London (Westminster) CCG,London,2016,E38000031,12000,0.08,8
+NHS Central Manchester CCG,North West England,2016,E38000032,11942,0.079,7.9
+NHS Chiltern CCG,South East England,2016,E38000033,21959,0.085,8.5
+NHS Chorley and South Ribble CCG,North West England,2016,E38000034,11548,0.082,8.2
+NHS City and Hackney CCG,London,2016,E38000035,20408,0.091,9.1
+NHS Coastal West Sussex CCG,South East England,2016,E38000036,38830,0.095,9.5
+NHS Corby CCG,East Midlands,2016,E38000037,4082,0.077,7.7
+NHS Coventry and Rugby CCG,West Midlands,2016,E38000038,31064,0.085,8.5
+NHS Crawley CCG,South East England,2016,E38000039,6945,0.078,7.8
+NHS Croydon CCG,London,2016,E38000040,31579,0.105,10.5
+NHS Cumbria CCG,North West England,2016,E38000041,39468,0.094,9.4
+NHS Darlington CCG,North East England,2016,E38000042,7455,0.087,8.7
+"NHS Dartford, Gravesham and Swanley CCG",South East England,2016,E38000043,17617,0.085,8.5
+NHS Doncaster CCG,Yorkshire and the Humber,2016,E38000044,22068,0.089,8.9
+NHS Dorset CCG,South West England,2016,E38000045,58224,0.09,9
+NHS Dudley CCG,West Midlands,2016,E38000046,23912,0.093,9.3
+"NHS Durham Dales, Easington and Sedgefield CCG",North East England,2016,E38000047,21240,0.094,9.4
+NHS Ealing CCG,London,2016,E38000048,29557,0.107,10.7
+NHS East and North Hertfordshire CCG,East of England,2016,E38000049,35089,0.077,7.7
+NHS East Lancashire CCG,North West England,2016,E38000050,28161,0.094,9.4
+NHS East Leicestershire and Rutland CCG,East Midlands,2016,E38000051,23435,0.087,8.7
+NHS East Riding of Yorkshire CCG,Yorkshire and the Humber,2016,E38000052,24295,0.091,9.1
+NHS East Staffordshire CCG,West Midlands,2016,E38000053,8816,0.086,8.6
+NHS East Surrey CCG,South East England,2016,E38000054,11331,0.077,7.7
+"NHS Eastbourne, Hailsham and Seaford CCG",South East England,2016,E38000055,15455,0.098,9.8
+NHS Eastern Cheshire CCG,North West England,2016,E38000056,14311,0.087,8.7
+NHS Enfield CCG,London,2016,E38000057,24515,0.095,9.5
+NHS Erewash CCG,East Midlands,2016,E38000058,6703,0.085,8.5
+NHS Fareham and Gosport CCG,South East England,2016,E38000059,13558,0.082,8.2
+NHS Fylde & Wyre CCG,North West England,2016,E38000060,13773,0.097,9.7
+NHS Gloucestershire CCG,South West England,2016,E38000062,43009,0.084,8.4
+NHS Great Yarmouth and Waveney CCG,East of England,2016,E38000063,17838,0.1,10
+NHS Greater Huddersfield CCG,Yorkshire and the Humber,2016,E38000064,17845,0.09,9
+NHS Greater Preston CCG,North West England,2016,E38000065,14090,0.086,8.6
+NHS Greenwich CCG,London,2016,E38000066,18024,0.083,8.3
+NHS Guildford and Waverley CCG,South East England,2016,E38000067,12411,0.072,7.2
+NHS Halton CCG,North West England,2016,E38000068,8669,0.085,8.5
+"NHS Hambleton, Richmondshire and Whitby CCG",Yorkshire and the Humber,2016,E38000069,11309,0.089,8.9
+NHS Hammersmith and Fulham CCG,London,2016,E38000070,11413,0.076,7.6
+NHS Hardwick CCG,East Midlands,2016,E38000071,8332,0.091,9.1
+NHS Haringey CCG,London,2016,E38000072,20209,0.091,9.1
+NHS Harrogate and Rural District CCG,Yorkshire and the Humber,2016,E38000073,10881,0.084,8.4
+NHS Harrow CCG,London,2016,E38000074,21776,0.109,10.9
+NHS Hartlepool and Stockton-On-Tees CCG,North East England,2016,E38000075,19472,0.084,8.4
+NHS Hastings and Rother CCG,South East England,2016,E38000076,15599,0.101,10.1
+NHS Havering CCG,London,2016,E38000077,17497,0.086,8.6
+NHS Herefordshire CCG,West Midlands,2016,E38000078,14897,0.095,9.5
+NHS Herts Valleys CCG,East of England,2016,E38000079,37175,0.079,7.9
+"NHS Heywood, Middleton and Rochdale CCG",North West England,2016,E38000080,16340,0.097,9.7
+NHS High Weald Lewes Havens CCG,South East England,2016,E38000081,12330,0.086,8.6
+NHS Hillingdon CCG,London,2016,E38000082,20940,0.088,8.8
+NHS Horsham and Mid Sussex CCG,South East England,2016,E38000083,14361,0.077,7.7
+NHS Hounslow CCG,London,2016,E38000084,20985,0.096,9.6
+NHS Hull CCG,Yorkshire and the Humber,2016,E38000085,16610,0.08,8
+NHS Ipswich and East Suffolk CCG,East of England,2016,E38000086,29526,0.09,9
+NHS Isle of Wight CCG,South East England,2016,E38000087,12117,0.103,10.3
+NHS Islington CCG,London,2016,E38000088,14297,0.073,7.3
+NHS Kernow CCG,South West England,2016,E38000089,45393,0.098,9.8
+NHS Kingston CCG,London,2016,E38000090,9440,0.067,6.7
+NHS Knowsley CCG,North West England,2016,E38000091,10622,0.09,9
+NHS Lambeth CCG,London,2016,E38000092,24092,0.089,8.9
+NHS Lancashire North CCG,North West England,2016,E38000093,11143,0.083,8.3
+NHS Leeds North CCG,Yorkshire and the Humber,2016,E38000094,14794,0.09,9
+NHS Leeds South and East CCG,Yorkshire and the Humber,2016,E38000095,16098,0.082,8.2
+NHS Leeds West CCG,Yorkshire and the Humber,2016,E38000096,19011,0.071,7.1
+NHS Leicester City CCG,East Midlands,2016,E38000097,29668,0.109,10.9
+NHS Lewisham CCG,London,2016,E38000098,22792,0.095,9.5
+NHS Lincolnshire East CCG,East Midlands,2016,E38000099,20248,0.103,10.3
+NHS Lincolnshire West CCG,East Midlands,2016,E38000100,15978,0.082,8.2
+NHS Liverpool CCG,North West England,2016,E38000101,31201,0.079,7.9
+NHS Luton CCG,East of England,2016,E38000102,17019,0.102,10.2
+NHS Mansfield and Ashfield CCG,East Midlands,2016,E38000103,14204,0.089,8.9
+NHS Medway CCG,South East England,2016,E38000104,17819,0.08,8
+NHS Merton CCG,London,2016,E38000105,13578,0.082,8.2
+NHS Mid Essex CCG,East of England,2016,E38000106,25989,0.082,8.2
+NHS Milton Keynes CCG,South East England,2016,E38000107,16158,0.077,7.7
+NHS Nene CCG,East of England,2016,E38000108,42916,0.083,8.3
+NHS Newark & Sherwood CCG,East Midlands,2016,E38000109,8692,0.089,8.9
+NHS Newbury and District CCG,South East England,2016,E38000110,6484,0.076,7.6
+NHS Newcastle Gateshead CCG,North East England,2016,E38000212,31809,0.078,7.8
+NHS Newham CCG,London,2016,E38000113,27527,0.104,10.4
+NHS North & West Reading CCG,South East England,2016,E38000114,6364,0.079,7.9
+NHS North Derbyshire CCG,East Midlands,2016,E38000115,20435,0.089,8.9
+NHS North Durham CCG,North East England,2016,E38000116,16851,0.082,8.2
+NHS North East Essex CCG,East of England,2016,E38000117,24222,0.09,9
+NHS North East Hampshire and Farnham CCG,South East England,2016,E38000118,12157,0.072,7.2
+NHS North East Lincolnshire CCG,Yorkshire and the Humber,2016,E38000119,11402,0.088,8.8
+NHS North Hampshire CCG,South East England,2016,E38000120,13382,0.075,7.5
+NHS North Kirklees CCG,Yorkshire and the Humber,2016,E38000121,14777,0.098,9.8
+NHS North Lincolnshire CCG,Yorkshire and the Humber,2016,E38000122,12228,0.088,8.8
+NHS North Manchester CCG,North West England,2016,E38000123,10592,0.075,7.5
+NHS North Norfolk CCG,East of England,2016,E38000124,15098,0.104,10.4
+NHS North Somerset CCG,South West England,2016,E38000125,15143,0.087,8.7
+NHS North Staffordshire CCG,West Midlands,2016,E38000126,15498,0.086,8.6
+NHS North Tyneside CCG,North East England,2016,E38000127,14279,0.085,8.5
+NHS North West Surrey CCG,South East England,2016,E38000128,21679,0.078,7.8
+"NHS North, East, West Devon CCG",South West England,2016,E38000129,65675,0.089,8.9
+NHS Northumberland CCG,North East England,2016,E38000130,24737,0.094,9.4
+NHS Norwich CCG,East of England,2016,E38000131,12859,0.077,7.7
+NHS Nottingham City CCG,East Midlands,2016,E38000132,20068,0.078,7.8
+NHS Nottingham North and East CCG,East Midlands,2016,E38000133,10541,0.085,8.5
+NHS Nottingham West CCG,East Midlands,2016,E38000134,7815,0.083,8.3
+NHS Oldham CCG,North West England,2016,E38000135,16898,0.094,9.4
+NHS Oxfordshire CCG,South East England,2016,E38000136,40219,0.074,7.4
+NHS Portsmouth CCG,South East England,2016,E38000137,12453,0.072,7.2
+NHS Redbridge CCG,London,2016,E38000138,25345,0.108,10.8
+NHS Redditch and Bromsgrove CCG,West Midlands,2016,E38000139,12534,0.085,8.5
+NHS Richmond CCG,London,2016,E38000140,11149,0.07,7
+NHS Rotherham CCG,Yorkshire and the Humber,2016,E38000141,19118,0.091,9.1
+NHS Rushcliffe CCG,East Midlands,2016,E38000142,7381,0.078,7.8
+NHS Salford CCG,North West England,2016,E38000143,15470,0.078,7.8
+NHS Sandwell and West Birmingham CCG,West Midlands,2016,E38000144,43831,0.115,11.5
+NHS Scarborough and Ryedale CCG,Yorkshire and the Humber,2016,E38000145,9104,0.099,9.9
+NHS Sheffield CCG,Yorkshire and the Humber,2016,E38000146,38039,0.081,8.1
+NHS Shropshire CCG,West Midlands,2016,E38000147,23902,0.092,9.2
+NHS Slough CCG,South East England,2016,E38000148,11245,0.102,10.2
+NHS Solihull CCG,West Midlands,2016,E38000149,15347,0.09,9
+NHS Somerset CCG,South West England,2016,E38000150,41901,0.093,9.3
+NHS South Cheshire CCG,North West England,2016,E38000151,12363,0.084,8.4
+NHS South Devon and Torbay CCG,South West England,2016,E38000152,23657,0.101,10.1
+NHS South East Staffordshire and Seisdon Peninsula CCG,West Midlands,2016,E38000153,15977,0.086,8.6
+NHS South Eastern Hampshire CCG,South East England,2016,E38000154,15171,0.087,8.7
+NHS South Gloucestershire CCG,South West England,2016,E38000155,17134,0.076,7.6
+NHS South Kent Coast CCG,South East England,2016,E38000156,16232,0.095,9.5
+NHS South Lincolnshire CCG,East Midlands,2016,E38000157,10753,0.089,8.9
+NHS South Manchester CCG,North West England,2016,E38000158,9755,0.073,7.3
+NHS South Norfolk CCG,East of England,2016,E38000159,18229,0.091,9.1
+NHS South Reading CCG,South East England,2016,E38000160,6186,0.069,6.9
+NHS South Sefton CCG,North West England,2016,E38000161,11990,0.092,9.2
+NHS South Tees CCG,North East England,2016,E38000162,19968,0.09,9
+NHS South Tyneside CCG,North East England,2016,E38000163,11383,0.092,9.2
+NHS South Warwickshire CCG,West Midlands,2016,E38000164,18183,0.083,8.3
+NHS South West Lincolnshire CCG,East Midlands,2016,E38000165,9034,0.087,8.7
+NHS South Worcestershire CCG,West Midlands,2016,E38000166,22117,0.089,8.9
+NHS Southampton CCG,South East England,2016,E38000167,14588,0.071,7.1
+NHS Southend CCG,East of England,2016,E38000168,12809,0.088,8.8
+NHS Southern Derbyshire CCG,East Midlands,2016,E38000169,37375,0.087,8.7
+NHS Southport and Formby CCG,North West England,2016,E38000170,9410,0.098,9.8
+NHS Southwark CCG,London,2016,E38000171,22577,0.088,8.8
+NHS St Helens CCG,North West England,2016,E38000172,13162,0.09,9
+NHS Stafford and Surrounds CCG,West Midlands,2016,E38000173,10902,0.085,8.5
+NHS Stockport CCG,North West England,2016,E38000174,20280,0.087,8.7
+NHS Stoke on Trent CCG,West Midlands,2016,E38000175,18580,0.089,8.9
+NHS Sunderland CCG,North East England,2016,E38000176,20123,0.088,8.8
+NHS Surrey Downs CCG,South East England,2016,E38000177,18522,0.079,7.9
+NHS Surrey Heath CCG,South East England,2016,E38000178,5994,0.077,7.7
+NHS Sutton CCG,London,2016,E38000179,12763,0.079,7.9
+NHS Swale CCG,South East England,2016,E38000180,7778,0.086,8.6
+NHS Swindon CCG,South West England,2016,E38000181,13725,0.076,7.6
+NHS Tameside and Glossop CCG,North West England,2016,E38000182,18474,0.09,9
+NHS Telford and Wrekin CCG,West Midlands,2016,E38000183,11460,0.084,8.4
+NHS Thanet CCG,South East England,2016,E38000184,11137,0.097,9.7
+NHS Thurrock CCG,East of England,2016,E38000185,10306,0.079,7.9
+NHS Tower Hamlets CCG,London,2016,E38000186,20052,0.083,8.3
+NHS Trafford CCG,North West England,2016,E38000187,15525,0.083,8.3
+NHS Vale of York CCG,Yorkshire and the Humber,2016,E38000188,22438,0.075,7.5
+NHS Vale Royal CCG,North West England,2016,E38000189,7073,0.085,8.5
+NHS Wakefield CCG,Yorkshire and the Humber,2016,E38000190,24029,0.088,8.8
+NHS Walsall CCG,West Midlands,2016,E38000191,22103,0.101,10.1
+NHS Waltham Forest CCG,London,2016,E38000192,21954,0.102,10.2
+NHS Wandsworth CCG,London,2016,E38000193,18620,0.071,7.1
+NHS Warrington CCG,North West England,2016,E38000194,13431,0.079,7.9
+NHS Warwickshire North CCG,West Midlands,2016,E38000195,13803,0.089,8.9
+NHS West Cheshire CCG,North West England,2016,E38000196,16156,0.084,8.4
+NHS West Essex CCG,East of England,2016,E38000197,20191,0.083,8.3
+NHS West Hampshire CCG,South East England,2016,E38000198,38356,0.084,8.4
+NHS West Kent CCG,South East England,2016,E38000199,30198,0.078,7.8
+NHS West Lancashire CCG,North West England,2016,E38000200,7930,0.086,8.6
+NHS West Leicestershire CCG,East Midlands,2016,E38000201,25828,0.081,8.1
+NHS West London CCG,London,2016,E38000202,16025,0.085,8.5
+NHS West Norfolk CCG,East of England,2016,E38000203,14751,0.101,10.1
+NHS West Suffolk CCG,East of England,2016,E38000204,16054,0.086,8.6
+NHS Wigan Borough CCG,North West England,2016,E38000205,22147,0.084,8.4
+NHS Wiltshire CCG,South West England,2016,E38000206,32864,0.083,8.3
+"NHS Windsor, Ascot and Maidenhead CCG",South East England,2016,E38000207,8913,0.077,7.7
+NHS Wirral CCG,North West England,2016,E38000208,23662,0.09,9
+NHS Wokingham CCG,South East England,2016,E38000209,9388,0.073,7.3
+NHS Wolverhampton CCG,West Midlands,2016,E38000210,22610,0.111,11.1
+NHS Wyre Forest CCG,West Midlands,2016,E38000211,7796,0.095,9.5
+"NHS Airedale, Wharfedale and Craven CCG",Yorkshire and the Humber,2017,E38000001,12329,0.095,9.5
+NHS Ashford CCG,South East England,2017,E38000002,8612,0.085,8.5
+NHS Aylesbury Vale CCG,South East England,2017,E38000003,13091,0.078,7.8
+NHS Barking and Dagenham CCG,London,2017,E38000004,14084,0.092,9.2
+NHS Barnet CCG,London,2017,E38000005,26978,0.087,8.7
+NHS Barnsley CCG,Yorkshire and the Humber,2017,E38000006,17730,0.09,9
+NHS Basildon and Brentwood CCG,East of England,2017,E38000007,17552,0.083,8.3
+NHS Bassetlaw CCG,Yorkshire and the Humber,2017,E38000008,8690,0.092,9.2
+NHS Bath and North East Somerset CCG,South West England,2017,E38000009,11478,0.075,7.5
+NHS Bedfordshire CCG,East of England,2017,E38000010,29874,0.082,8.2
+NHS Bexley CCG,London,2017,E38000011,16237,0.083,8.3
+NHS Birmingham CrossCity CCG,West Midlands,2017,E38000012,57612,0.099,9.9
+NHS Birmingham South and Central CCG,West Midlands,2017,E38000013,16105,0.1,10
+NHS Blackburn with Darwen CCG,North West England,2017,E38000014,11231,0.1,10
+NHS Blackpool CCG,North West England,2017,E38000015,11119,0.097,9.7
+NHS Bolton CCG,North West England,2017,E38000016,20927,0.093,9.3
+NHS Bracknell and Ascot CCG,South East England,2017,E38000017,7764,0.07,7
+NHS Bradford City CCG,Yorkshire and the Humber,2017,E38000018,6742,0.111,11.1
+NHS Bradford Districts CCG,Yorkshire and the Humber,2017,E38000019,26649,0.102,10.2
+NHS Brent CCG,London,2017,E38000020,30895,0.116,11.6
+NHS Brighton and Hove CCG,South East England,2017,E38000021,16793,0.069,6.9
+NHS Bristol CCG,South West England,2017,E38000022,27089,0.073,7.3
+NHS Bromley CCG,London,2017,E38000023,22024,0.083,8.3
+NHS Bury CCG,North West England,2017,E38000024,13308,0.088,8.8
+NHS Calderdale CCG,Yorkshire and the Humber,2017,E38000025,15501,0.091,9.1
+NHS Cambridgeshire and Peterborough CCG,East of England,2017,E38000026,57178,0.079,7.9
+NHS Camden CCG,London,2017,E38000027,16409,0.078,7.8
+NHS Cannock Chase CCG,West Midlands,2017,E38000028,9450,0.085,8.5
+NHS Canterbury and Coastal CCG,South East England,2017,E38000029,14526,0.083,8.3
+NHS Castle Point and Rochford CCG,East of England,2017,E38000030,12854,0.088,8.8
+NHS Central London (Westminster) CCG,London,2017,E38000031,12357,0.081,8.1
+NHS Central Manchester CCG,North West England,2017,E38000032,12065,0.08,8
+NHS Chiltern CCG,South East England,2017,E38000033,22194,0.085,8.5
+NHS Chorley and South Ribble CCG,North West England,2017,E38000034,11728,0.083,8.3
+NHS City and Hackney CCG,London,2017,E38000035,20943,0.091,9.1
+NHS Coastal West Sussex CCG,South East England,2017,E38000036,39385,0.095,9.5
+NHS Corby CCG,East Midlands,2017,E38000037,4211,0.078,7.8
+NHS Coventry and Rugby CCG,West Midlands,2017,E38000038,31505,0.086,8.6
+NHS Crawley CCG,South East England,2017,E38000039,7004,0.079,7.9
+NHS Croydon CCG,London,2017,E38000040,32199,0.106,10.6
+NHS Cumbria CCG,North West England,2017,E38000041,39882,0.095,9.5
+NHS Darlington CCG,North East England,2017,E38000042,7461,0.088,8.8
+"NHS Dartford, Gravesham and Swanley CCG",South East England,2017,E38000043,17898,0.085,8.5
+NHS Doncaster CCG,Yorkshire and the Humber,2017,E38000044,22261,0.09,9
+NHS Dorset CCG,South West England,2017,E38000045,59002,0.091,9.1
+NHS Dudley CCG,West Midlands,2017,E38000046,24166,0.094,9.4
+"NHS Durham Dales, Easington and Sedgefield CCG",North East England,2017,E38000047,21459,0.094,9.4
+NHS Ealing CCG,London,2017,E38000048,30151,0.109,10.9
+NHS East and North Hertfordshire CCG,East of England,2017,E38000049,35657,0.078,7.8
+NHS East Lancashire CCG,North West England,2017,E38000050,28556,0.095,9.5
+NHS East Leicestershire and Rutland CCG,East Midlands,2017,E38000051,23776,0.088,8.8
+NHS East Riding of Yorkshire CCG,Yorkshire and the Humber,2017,E38000052,24572,0.092,9.2
+NHS East Staffordshire CCG,West Midlands,2017,E38000053,8881,0.087,8.7
+NHS East Surrey CCG,South East England,2017,E38000054,11491,0.077,7.7
+"NHS Eastbourne, Hailsham and Seaford CCG",South East England,2017,E38000055,15725,0.099,9.9
+NHS Eastern Cheshire CCG,North West England,2017,E38000056,14509,0.088,8.8
+NHS Enfield CCG,London,2017,E38000057,25057,0.096,9.6
+NHS Erewash CCG,East Midlands,2017,E38000058,6795,0.085,8.5
+NHS Fareham and Gosport CCG,South East England,2017,E38000059,13732,0.083,8.3
+NHS Fylde & Wyre CCG,North West England,2017,E38000060,13876,0.098,9.8
+NHS Gloucestershire CCG,South West England,2017,E38000062,43735,0.085,8.5
+NHS Great Yarmouth and Waveney CCG,East of England,2017,E38000063,18053,0.101,10.1
+NHS Greater Huddersfield CCG,Yorkshire and the Humber,2017,E38000064,18091,0.091,9.1
+NHS Greater Preston CCG,North West England,2017,E38000065,14151,0.086,8.6
+NHS Greenwich CCG,London,2017,E38000066,18344,0.083,8.3
+NHS Guildford and Waverley CCG,South East England,2017,E38000067,12574,0.072,7.2
+NHS Halton CCG,North West England,2017,E38000068,8793,0.086,8.6
+"NHS Hambleton, Richmondshire and Whitby CCG",Yorkshire and the Humber,2017,E38000069,11456,0.09,9
+NHS Hammersmith and Fulham CCG,London,2017,E38000070,11697,0.077,7.7
+NHS Hardwick CCG,East Midlands,2017,E38000071,8411,0.092,9.2
+NHS Haringey CCG,London,2017,E38000072,20664,0.092,9.2
+NHS Harrogate and Rural District CCG,Yorkshire and the Humber,2017,E38000073,10960,0.085,8.5
+NHS Harrow CCG,London,2017,E38000074,22145,0.11,11
+NHS Hartlepool and Stockton-On-Tees CCG,North East England,2017,E38000075,19753,0.085,8.5
+NHS Hastings and Rother CCG,South East England,2017,E38000076,15773,0.102,10.2
+NHS Havering CCG,London,2017,E38000077,17669,0.086,8.6
+NHS Herefordshire CCG,West Midlands,2017,E38000078,15094,0.095,9.5
+NHS Herts Valleys CCG,East of England,2017,E38000079,37722,0.08,8
+"NHS Heywood, Middleton and Rochdale CCG",North West England,2017,E38000080,16457,0.097,9.7
+NHS High Weald Lewes Havens CCG,South East England,2017,E38000081,12514,0.087,8.7
+NHS Hillingdon CCG,London,2017,E38000082,21350,0.088,8.8
+NHS Horsham and Mid Sussex CCG,South East England,2017,E38000083,14624,0.078,7.8
+NHS Hounslow CCG,London,2017,E38000084,21373,0.097,9.7
+NHS Hull CCG,Yorkshire and the Humber,2017,E38000085,16701,0.08,8
+NHS Ipswich and East Suffolk CCG,East of England,2017,E38000086,30033,0.091,9.1
+NHS Isle of Wight CCG,South East England,2017,E38000087,12262,0.104,10.4
+NHS Islington CCG,London,2017,E38000088,14566,0.073,7.3
+NHS Kernow CCG,South West England,2017,E38000089,46032,0.099,9.9
+NHS Kingston CCG,London,2017,E38000090,9646,0.067,6.7
+NHS Knowsley CCG,North West England,2017,E38000091,10662,0.09,9
+NHS Lambeth CCG,London,2017,E38000092,24539,0.09,9
+NHS Lancashire North CCG,North West England,2017,E38000093,11296,0.083,8.3
+NHS Leeds North CCG,Yorkshire and the Humber,2017,E38000094,14958,0.091,9.1
+NHS Leeds South and East CCG,Yorkshire and the Humber,2017,E38000095,16280,0.082,8.2
+NHS Leeds West CCG,Yorkshire and the Humber,2017,E38000096,19163,0.071,7.1
+NHS Leicester City CCG,East Midlands,2017,E38000097,30091,0.11,11
+NHS Lewisham CCG,London,2017,E38000098,23272,0.096,9.6
+NHS Lincolnshire East CCG,East Midlands,2017,E38000099,20510,0.104,10.4
+NHS Lincolnshire West CCG,East Midlands,2017,E38000100,16177,0.083,8.3
+NHS Liverpool CCG,North West England,2017,E38000101,31493,0.079,7.9
+NHS Luton CCG,East of England,2017,E38000102,17364,0.103,10.3
+NHS Mansfield and Ashfield CCG,East Midlands,2017,E38000103,14382,0.089,8.9
+NHS Medway CCG,South East England,2017,E38000104,18121,0.08,8
+NHS Merton CCG,London,2017,E38000105,13745,0.082,8.2
+NHS Mid Essex CCG,East of England,2017,E38000106,26452,0.083,8.3
+NHS Milton Keynes CCG,South East England,2017,E38000107,16530,0.078,7.8
+NHS Nene CCG,East of England,2017,E38000108,43717,0.084,8.4
+NHS Newark & Sherwood CCG,East Midlands,2017,E38000109,8859,0.09,9
+NHS Newbury and District CCG,South East England,2017,E38000110,6571,0.077,7.7
+NHS Newcastle Gateshead CCG,North East England,2017,E38000212,31989,0.078,7.8
+NHS Newham CCG,London,2017,E38000113,28431,0.106,10.6
+NHS North & West Reading CCG,South East England,2017,E38000114,6465,0.08,8
+NHS North Derbyshire CCG,East Midlands,2017,E38000115,20672,0.09,9
+NHS North Durham CCG,North East England,2017,E38000116,17058,0.083,8.3
+NHS North East Essex CCG,East of England,2017,E38000117,24600,0.091,9.1
+NHS North East Hampshire and Farnham CCG,South East England,2017,E38000118,12369,0.073,7.3
+NHS North East Lincolnshire CCG,Yorkshire and the Humber,2017,E38000119,11558,0.089,8.9
+NHS North Hampshire CCG,South East England,2017,E38000120,13655,0.076,7.6
+NHS North Kirklees CCG,Yorkshire and the Humber,2017,E38000121,14967,0.099,9.9
+NHS North Lincolnshire CCG,Yorkshire and the Humber,2017,E38000122,12416,0.089,8.9
+NHS North Manchester CCG,North West England,2017,E38000123,10703,0.075,7.5
+NHS North Norfolk CCG,East of England,2017,E38000124,15316,0.105,10.5
+NHS North Somerset CCG,South West England,2017,E38000125,15412,0.088,8.8
+NHS North Staffordshire CCG,West Midlands,2017,E38000126,15642,0.086,8.6
+NHS North Tyneside CCG,North East England,2017,E38000127,14406,0.085,8.5
+NHS North West Surrey CCG,South East England,2017,E38000128,22008,0.079,7.9
+"NHS North, East, West Devon CCG",South West England,2017,E38000129,66454,0.089,8.9
+NHS Northumberland CCG,North East England,2017,E38000130,24981,0.094,9.4
+NHS Norwich CCG,East of England,2017,E38000131,13051,0.078,7.8
+NHS Nottingham City CCG,East Midlands,2017,E38000132,20271,0.078,7.8
+NHS Nottingham North and East CCG,East Midlands,2017,E38000133,10619,0.086,8.6
+NHS Nottingham West CCG,East Midlands,2017,E38000134,7882,0.084,8.4
+NHS Oldham CCG,North West England,2017,E38000135,17072,0.095,9.5
+NHS Oxfordshire CCG,South East England,2017,E38000136,40895,0.075,7.5
+NHS Portsmouth CCG,South East England,2017,E38000137,12591,0.073,7.3
+NHS Redbridge CCG,London,2017,E38000138,25812,0.108,10.8
+NHS Redditch and Bromsgrove CCG,West Midlands,2017,E38000139,12740,0.086,8.6
+NHS Richmond CCG,London,2017,E38000140,11406,0.071,7.1
+NHS Rotherham CCG,Yorkshire and the Humber,2017,E38000141,19349,0.091,9.1
+NHS Rushcliffe CCG,East Midlands,2017,E38000142,7533,0.079,7.9
+NHS Salford CCG,North West England,2017,E38000143,15688,0.078,7.8
+NHS Sandwell and West Birmingham CCG,West Midlands,2017,E38000144,44216,0.115,11.5
+NHS Scarborough and Ryedale CCG,Yorkshire and the Humber,2017,E38000145,9228,0.1,10
+NHS Sheffield CCG,Yorkshire and the Humber,2017,E38000146,38439,0.082,8.2
+NHS Shropshire CCG,West Midlands,2017,E38000147,24324,0.093,9.3
+NHS Slough CCG,South East England,2017,E38000148,11485,0.103,10.3
+NHS Solihull CCG,West Midlands,2017,E38000149,15583,0.091,9.1
+NHS Somerset CCG,South West England,2017,E38000150,42526,0.094,9.4
+NHS South Cheshire CCG,North West England,2017,E38000151,12551,0.085,8.5
+NHS South Devon and Torbay CCG,South West England,2017,E38000152,23956,0.102,10.2
+NHS South East Staffordshire and Seisdon Peninsula CCG,West Midlands,2017,E38000153,16231,0.087,8.7
+NHS South Eastern Hampshire CCG,South East England,2017,E38000154,15398,0.088,8.8
+NHS South Gloucestershire CCG,South West England,2017,E38000155,17358,0.076,7.6
+NHS South Kent Coast CCG,South East England,2017,E38000156,16476,0.096,9.6
+NHS South Lincolnshire CCG,East Midlands,2017,E38000157,10932,0.089,8.9
+NHS South Manchester CCG,North West England,2017,E38000158,9865,0.073,7.3
+NHS South Norfolk CCG,East of England,2017,E38000159,18522,0.091,9.1
+NHS South Reading CCG,South East England,2017,E38000160,6254,0.07,7
+NHS South Sefton CCG,North West England,2017,E38000161,12088,0.093,9.3
+NHS South Tees CCG,North East England,2017,E38000162,20098,0.09,9
+NHS South Tyneside CCG,North East England,2017,E38000163,11472,0.093,9.3
+NHS South Warwickshire CCG,West Midlands,2017,E38000164,18550,0.085,8.5
+NHS South West Lincolnshire CCG,East Midlands,2017,E38000165,9214,0.089,8.9
+NHS South Worcestershire CCG,West Midlands,2017,E38000166,22392,0.09,9
+NHS Southampton CCG,South East England,2017,E38000167,14763,0.072,7.2
+NHS Southend CCG,East of England,2017,E38000168,12939,0.088,8.8
+NHS Southern Derbyshire CCG,East Midlands,2017,E38000169,37887,0.088,8.8
+NHS Southport and Formby CCG,North West England,2017,E38000170,9480,0.099,9.9
+NHS Southwark CCG,London,2017,E38000171,23046,0.088,8.8
+NHS St Helens CCG,North West England,2017,E38000172,13329,0.091,9.1
+NHS Stafford and Surrounds CCG,West Midlands,2017,E38000173,11029,0.086,8.6
+NHS Stockport CCG,North West England,2017,E38000174,20535,0.087,8.7
+NHS Stoke on Trent CCG,West Midlands,2017,E38000175,18729,0.089,8.9
+NHS Sunderland CCG,North East England,2017,E38000176,20285,0.088,8.8
+NHS Surrey Downs CCG,South East England,2017,E38000177,18823,0.08,8
+NHS Surrey Heath CCG,South East England,2017,E38000178,6090,0.078,7.8
+NHS Sutton CCG,London,2017,E38000179,12929,0.079,7.9
+NHS Swale CCG,South East England,2017,E38000180,7938,0.087,8.7
+NHS Swindon CCG,South West England,2017,E38000181,14029,0.078,7.8
+NHS Tameside and Glossop CCG,North West England,2017,E38000182,18673,0.091,9.1
+NHS Telford and Wrekin CCG,West Midlands,2017,E38000183,11665,0.085,8.5
+NHS Thanet CCG,South East England,2017,E38000184,11353,0.098,9.8
+NHS Thurrock CCG,East of England,2017,E38000185,10504,0.08,8
+NHS Tower Hamlets CCG,London,2017,E38000186,20725,0.083,8.3
+NHS Trafford CCG,North West England,2017,E38000187,15715,0.083,8.3
+NHS Vale of York CCG,Yorkshire and the Humber,2017,E38000188,22756,0.076,7.6
+NHS Vale Royal CCG,North West England,2017,E38000189,7181,0.086,8.6
+NHS Wakefield CCG,Yorkshire and the Humber,2017,E38000190,24339,0.089,8.9
+NHS Walsall CCG,West Midlands,2017,E38000191,22392,0.102,10.2
+NHS Waltham Forest CCG,London,2017,E38000192,22412,0.103,10.3
+NHS Wandsworth CCG,London,2017,E38000193,18916,0.071,7.1
+NHS Warrington CCG,North West England,2017,E38000194,13710,0.08,8
+NHS Warwickshire North CCG,West Midlands,2017,E38000195,14057,0.091,9.1
+NHS West Cheshire CCG,North West England,2017,E38000196,16368,0.085,8.5
+NHS West Essex CCG,East of England,2017,E38000197,20552,0.084,8.4
+NHS West Hampshire CCG,South East England,2017,E38000198,38954,0.084,8.4
+NHS West Kent CCG,South East England,2017,E38000199,30677,0.079,7.9
+NHS West Lancashire CCG,North West England,2017,E38000200,8040,0.086,8.6
+NHS West Leicestershire CCG,East Midlands,2017,E38000201,26254,0.081,8.1
+NHS West London CCG,London,2017,E38000202,16337,0.086,8.6
+NHS West Norfolk CCG,East of England,2017,E38000203,14941,0.102,10.2
+NHS West Suffolk CCG,East of England,2017,E38000204,16331,0.087,8.7
+NHS Wigan Borough CCG,North West England,2017,E38000205,22482,0.085,8.5
+NHS Wiltshire CCG,South West England,2017,E38000206,33510,0.084,8.4
+"NHS Windsor, Ascot and Maidenhead CCG",South East England,2017,E38000207,9052,0.078,7.8
+NHS Wirral CCG,North West England,2017,E38000208,23867,0.091,9.1
+NHS Wokingham CCG,South East England,2017,E38000209,9594,0.074,7.4
+NHS Wolverhampton CCG,West Midlands,2017,E38000210,22715,0.111,11.1
+NHS Wyre Forest CCG,West Midlands,2017,E38000211,7975,0.097,9.7
+"NHS Airedale, Wharfedale and Craven CCG",Yorkshire and the Humber,2018,E38000001,12476,0.095,9.5
+NHS Ashford CCG,South East England,2018,E38000002,8803,0.085,8.5
+NHS Aylesbury Vale CCG,South East England,2018,E38000003,13373,0.078,7.8
+NHS Barking and Dagenham CCG,London,2018,E38000004,14411,0.092,9.2
+NHS Barnet CCG,London,2018,E38000005,27521,0.087,8.7
+NHS Barnsley CCG,Yorkshire and the Humber,2018,E38000006,18014,0.091,9.1
+NHS Basildon and Brentwood CCG,East of England,2018,E38000007,17785,0.084,8.4
+NHS Bassetlaw CCG,Yorkshire and the Humber,2018,E38000008,8829,0.093,9.3
+NHS Bath and North East Somerset CCG,South West England,2018,E38000009,11569,0.075,7.5
+NHS Bedfordshire CCG,East of England,2018,E38000010,30467,0.083,8.3
+NHS Bexley CCG,London,2018,E38000011,16443,0.083,8.3
+NHS Birmingham CrossCity CCG,West Midlands,2018,E38000012,58247,0.1,10
+NHS Birmingham South and Central CCG,West Midlands,2018,E38000013,16244,0.1,10
+NHS Blackburn with Darwen CCG,North West England,2018,E38000014,11248,0.1,10
+NHS Blackpool CCG,North West England,2018,E38000015,11185,0.098,9.8
+NHS Bolton CCG,North West England,2018,E38000016,21138,0.094,9.4
+NHS Bracknell and Ascot CCG,South East England,2018,E38000017,7860,0.071,7.1
+NHS Bradford City CCG,Yorkshire and the Humber,2018,E38000018,6811,0.112,11.2
+NHS Bradford Districts CCG,Yorkshire and the Humber,2018,E38000019,26991,0.102,10.2
+NHS Brent CCG,London,2018,E38000020,31553,0.118,11.8
+NHS Brighton and Hove CCG,South East England,2018,E38000021,17062,0.07,7
+NHS Bristol CCG,South West England,2018,E38000022,27332,0.073,7.3
+NHS Bromley CCG,London,2018,E38000023,22263,0.083,8.3
+NHS Bury CCG,North West England,2018,E38000024,13473,0.089,8.9
+NHS Calderdale CCG,Yorkshire and the Humber,2018,E38000025,15705,0.092,9.2
+NHS Cambridgeshire and Peterborough CCG,East of England,2018,E38000026,58156,0.08,8
+NHS Camden CCG,London,2018,E38000027,16839,0.079,7.9
+NHS Cannock Chase CCG,West Midlands,2018,E38000028,9626,0.086,8.6
+NHS Canterbury and Coastal CCG,South East England,2018,E38000029,14742,0.083,8.3
+NHS Castle Point and Rochford CCG,East of England,2018,E38000030,13055,0.089,8.9
+NHS Central London (Westminster) CCG,London,2018,E38000031,12596,0.082,8.2
+NHS Central Manchester CCG,North West England,2018,E38000032,12278,0.08,8
+NHS Chiltern CCG,South East England,2018,E38000033,22535,0.086,8.6
+NHS Chorley and South Ribble CCG,North West England,2018,E38000034,11975,0.084,8.4
+NHS City and Hackney CCG,London,2018,E38000035,21451,0.092,9.2
+NHS Coastal West Sussex CCG,South East England,2018,E38000036,40022,0.096,9.6
+NHS Corby CCG,East Midlands,2018,E38000037,4309,0.079,7.9
+NHS Coventry and Rugby CCG,West Midlands,2018,E38000038,31999,0.086,8.6
+NHS Crawley CCG,South East England,2018,E38000039,7145,0.079,7.9
+NHS Croydon CCG,London,2018,E38000040,32747,0.107,10.7
+NHS Cumbria CCG,North West England,2018,E38000041,40306,0.096,9.6
+NHS Darlington CCG,North East England,2018,E38000042,7590,0.089,8.9
+"NHS Dartford, Gravesham and Swanley CCG",South East England,2018,E38000043,18200,0.086,8.6
+NHS Doncaster CCG,Yorkshire and the Humber,2018,E38000044,22457,0.091,9.1
+NHS Dorset CCG,South West England,2018,E38000045,59824,0.092,9.2
+NHS Dudley CCG,West Midlands,2018,E38000046,24401,0.095,9.5
+"NHS Durham Dales, Easington and Sedgefield CCG",North East England,2018,E38000047,21668,0.095,9.5
+NHS Ealing CCG,London,2018,E38000048,30709,0.11,11
+NHS East and North Hertfordshire CCG,East of England,2018,E38000049,36244,0.079,7.9
+NHS East Lancashire CCG,North West England,2018,E38000050,28763,0.096,9.6
+NHS East Leicestershire and Rutland CCG,East Midlands,2018,E38000051,24101,0.089,8.9
+NHS East Riding of Yorkshire CCG,Yorkshire and the Humber,2018,E38000052,24955,0.093,9.3
+NHS East Staffordshire CCG,West Midlands,2018,E38000053,9095,0.088,8.8
+NHS East Surrey CCG,South East England,2018,E38000054,11712,0.078,7.8
+"NHS Eastbourne, Hailsham and Seaford CCG",South East England,2018,E38000055,15976,0.1,10
+NHS Eastern Cheshire CCG,North West England,2018,E38000056,14780,0.089,8.9
+NHS Enfield CCG,London,2018,E38000057,25470,0.096,9.6
+NHS Erewash CCG,East Midlands,2018,E38000058,6853,0.086,8.6
+NHS Fareham and Gosport CCG,South East England,2018,E38000059,13985,0.084,8.4
+NHS Fylde & Wyre CCG,North West England,2018,E38000060,14031,0.099,9.9
+NHS Gloucestershire CCG,South West England,2018,E38000062,44423,0.086,8.6
+NHS Great Yarmouth and Waveney CCG,East of England,2018,E38000063,18266,0.102,10.2
+NHS Greater Huddersfield CCG,Yorkshire and the Humber,2018,E38000064,18341,0.091,9.1
+NHS Greater Preston CCG,North West England,2018,E38000065,14395,0.087,8.7
+NHS Greenwich CCG,London,2018,E38000066,18722,0.084,8.4
+NHS Guildford and Waverley CCG,South East England,2018,E38000067,12744,0.072,7.2
+NHS Halton CCG,North West England,2018,E38000068,8883,0.087,8.7
+"NHS Hambleton, Richmondshire and Whitby CCG",Yorkshire and the Humber,2018,E38000069,11602,0.091,9.1
+NHS Hammersmith and Fulham CCG,London,2018,E38000070,11927,0.078,7.8
+NHS Hardwick CCG,East Midlands,2018,E38000071,8563,0.093,9.3
+NHS Haringey CCG,London,2018,E38000072,21141,0.093,9.3
+NHS Harrogate and Rural District CCG,Yorkshire and the Humber,2018,E38000073,11127,0.086,8.6
+NHS Harrow CCG,London,2018,E38000074,22560,0.111,11.1
+NHS Hartlepool and Stockton-On-Tees CCG,North East England,2018,E38000075,20014,0.085,8.5
+NHS Hastings and Rother CCG,South East England,2018,E38000076,15989,0.103,10.3
+NHS Havering CCG,London,2018,E38000077,17832,0.087,8.7
+NHS Herefordshire CCG,West Midlands,2018,E38000078,15342,0.096,9.6
+NHS Herts Valleys CCG,East of England,2018,E38000079,38365,0.08,8
+"NHS Heywood, Middleton and Rochdale CCG",North West England,2018,E38000080,16656,0.098,9.8
+NHS High Weald Lewes Havens CCG,South East England,2018,E38000081,12709,0.088,8.8
+NHS Hillingdon CCG,London,2018,E38000082,21739,0.088,8.8
+NHS Horsham and Mid Sussex CCG,South East England,2018,E38000083,14880,0.078,7.8
+NHS Hounslow CCG,London,2018,E38000084,21858,0.098,9.8
+NHS Hull CCG,Yorkshire and the Humber,2018,E38000085,16887,0.081,8.1
+NHS Ipswich and East Suffolk CCG,East of England,2018,E38000086,30467,0.092,9.2
+NHS Isle of Wight CCG,South East England,2018,E38000087,12490,0.105,10.5
+NHS Islington CCG,London,2018,E38000088,14889,0.074,7.4
+NHS Kernow CCG,South West England,2018,E38000089,46710,0.1,10
+NHS Kingston CCG,London,2018,E38000090,9859,0.067,6.7
+NHS Knowsley CCG,North West England,2018,E38000091,10733,0.091,9.1
+NHS Lambeth CCG,London,2018,E38000092,25014,0.09,9
+NHS Lancashire North CCG,North West England,2018,E38000093,11355,0.084,8.4
+NHS Leeds North CCG,Yorkshire and the Humber,2018,E38000094,15067,0.091,9.1
+NHS Leeds South and East CCG,Yorkshire and the Humber,2018,E38000095,16376,0.083,8.3
+NHS Leeds West CCG,Yorkshire and the Humber,2018,E38000096,19404,0.071,7.1
+NHS Leicester City CCG,East Midlands,2018,E38000097,30529,0.11,11
+NHS Lewisham CCG,London,2018,E38000098,23728,0.097,9.7
+NHS Lincolnshire East CCG,East Midlands,2018,E38000099,20707,0.105,10.5
+NHS Lincolnshire West CCG,East Midlands,2018,E38000100,16504,0.084,8.4
+NHS Liverpool CCG,North West England,2018,E38000101,31700,0.079,7.9
+NHS Luton CCG,East of England,2018,E38000102,17635,0.103,10.3
+NHS Mansfield and Ashfield CCG,East Midlands,2018,E38000103,14676,0.091,9.1
+NHS Medway CCG,South East England,2018,E38000104,18390,0.081,8.1
+NHS Merton CCG,London,2018,E38000105,13935,0.083,8.3
+NHS Mid Essex CCG,East of England,2018,E38000106,26877,0.084,8.4
+NHS Milton Keynes CCG,South East England,2018,E38000107,16901,0.078,7.8
+NHS Nene CCG,East of England,2018,E38000108,44474,0.085,8.5
+NHS Newark & Sherwood CCG,East Midlands,2018,E38000109,8964,0.091,9.1
+NHS Newbury and District CCG,South East England,2018,E38000110,6731,0.078,7.8
+NHS Newcastle Gateshead CCG,North East England,2018,E38000212,32342,0.079,7.9
+NHS Newham CCG,London,2018,E38000113,29203,0.107,10.7
+NHS North & West Reading CCG,South East England,2018,E38000114,6541,0.08,8
+NHS North Derbyshire CCG,East Midlands,2018,E38000115,20954,0.091,9.1
+NHS North Durham CCG,North East England,2018,E38000116,17243,0.083,8.3
+NHS North East Essex CCG,East of England,2018,E38000117,24967,0.092,9.2
+NHS North East Hampshire and Farnham CCG,South East England,2018,E38000118,12577,0.074,7.4
+NHS North East Lincolnshire CCG,Yorkshire and the Humber,2018,E38000119,11637,0.09,9
+NHS North Hampshire CCG,South East England,2018,E38000120,13929,0.077,7.7
+NHS North Kirklees CCG,Yorkshire and the Humber,2018,E38000121,15175,0.1,10
+NHS North Lincolnshire CCG,Yorkshire and the Humber,2018,E38000122,12603,0.09,9
+NHS North Manchester CCG,North West England,2018,E38000123,10878,0.075,7.5
+NHS North Norfolk CCG,East of England,2018,E38000124,15509,0.106,10.6
+NHS North Somerset CCG,South West England,2018,E38000125,15663,0.089,8.9
+NHS North Staffordshire CCG,West Midlands,2018,E38000126,15846,0.087,8.7
+NHS North Tyneside CCG,North East England,2018,E38000127,14631,0.086,8.6
+NHS North West Surrey CCG,South East England,2018,E38000128,22336,0.079,7.9
+"NHS North, East, West Devon CCG",South West England,2018,E38000129,67351,0.09,9
+NHS Northumberland CCG,North East England,2018,E38000130,25335,0.096,9.6
+NHS Norwich CCG,East of England,2018,E38000131,13173,0.078,7.8
+NHS Nottingham City CCG,East Midlands,2018,E38000132,20465,0.079,7.9
+NHS Nottingham North and East CCG,East Midlands,2018,E38000133,10774,0.086,8.6
+NHS Nottingham West CCG,East Midlands,2018,E38000134,7944,0.084,8.4
+NHS Oldham CCG,North West England,2018,E38000135,17310,0.096,9.6
+NHS Oxfordshire CCG,South East England,2018,E38000136,41512,0.075,7.5
+NHS Portsmouth CCG,South East England,2018,E38000137,12755,0.073,7.3
+NHS Redbridge CCG,London,2018,E38000138,26272,0.109,10.9
+NHS Redditch and Bromsgrove CCG,West Midlands,2018,E38000139,12899,0.087,8.7
+NHS Richmond CCG,London,2018,E38000140,11593,0.072,7.2
+NHS Rotherham CCG,Yorkshire and the Humber,2018,E38000141,19541,0.092,9.2
+NHS Rushcliffe CCG,East Midlands,2018,E38000142,7608,0.079,7.9
+NHS Salford CCG,North West England,2018,E38000143,15930,0.079,7.9
+NHS Sandwell and West Birmingham CCG,West Midlands,2018,E38000144,44747,0.116,11.6
+NHS Scarborough and Ryedale CCG,Yorkshire and the Humber,2018,E38000145,9271,0.101,10.1
+NHS Sheffield CCG,Yorkshire and the Humber,2018,E38000146,38754,0.082,8.2
+NHS Shropshire CCG,West Midlands,2018,E38000147,24678,0.094,9.4
+NHS Slough CCG,South East England,2018,E38000148,11700,0.104,10.4
+NHS Solihull CCG,West Midlands,2018,E38000149,15709,0.091,9.1
+NHS Somerset CCG,South West England,2018,E38000150,43261,0.095,9.5
+NHS South Cheshire CCG,North West England,2018,E38000151,12702,0.086,8.6
+NHS South Devon and Torbay CCG,South West England,2018,E38000152,24265,0.103,10.3
+NHS South East Staffordshire and Seisdon Peninsula CCG,West Midlands,2018,E38000153,16496,0.088,8.8
+NHS South Eastern Hampshire CCG,South East England,2018,E38000154,15617,0.089,8.9
+NHS South Gloucestershire CCG,South West England,2018,E38000155,17717,0.077,7.7
+NHS South Kent Coast CCG,South East England,2018,E38000156,16767,0.097,9.7
+NHS South Lincolnshire CCG,East Midlands,2018,E38000157,11100,0.09,9
+NHS South Manchester CCG,North West England,2018,E38000158,9994,0.073,7.3
+NHS South Norfolk CCG,East of England,2018,E38000159,18904,0.092,9.2
+NHS South Reading CCG,South East England,2018,E38000160,6309,0.07,7
+NHS South Sefton CCG,North West England,2018,E38000161,12174,0.093,9.3
+NHS South Tees CCG,North East England,2018,E38000162,20280,0.091,9.1
+NHS South Tyneside CCG,North East England,2018,E38000163,11538,0.093,9.3
+NHS South Warwickshire CCG,West Midlands,2018,E38000164,18734,0.085,8.5
+NHS South West Lincolnshire CCG,East Midlands,2018,E38000165,9372,0.09,9
+NHS South Worcestershire CCG,West Midlands,2018,E38000166,22765,0.091,9.1
+NHS Southampton CCG,South East England,2018,E38000167,14945,0.072,7.2
+NHS Southend CCG,East of England,2018,E38000168,13203,0.089,8.9
+NHS Southern Derbyshire CCG,East Midlands,2018,E38000169,38441,0.089,8.9
+NHS Southport and Formby CCG,North West England,2018,E38000170,9595,0.1,10
+NHS Southwark CCG,London,2018,E38000171,23478,0.089,8.9
+NHS St Helens CCG,North West England,2018,E38000172,13433,0.092,9.2
+NHS Stafford and Surrounds CCG,West Midlands,2018,E38000173,11228,0.087,8.7
+NHS Stockport CCG,North West England,2018,E38000174,20800,0.088,8.8
+NHS Stoke on Trent CCG,West Midlands,2018,E38000175,18913,0.09,9
+NHS Sunderland CCG,North East England,2018,E38000176,20478,0.089,8.9
+NHS Surrey Downs CCG,South East England,2018,E38000177,19130,0.08,8
+NHS Surrey Heath CCG,South East England,2018,E38000178,6175,0.079,7.9
+NHS Sutton CCG,London,2018,E38000179,13182,0.08,8
+NHS Swale CCG,South East England,2018,E38000180,8127,0.088,8.8
+NHS Swindon CCG,South West England,2018,E38000181,14303,0.079,7.9
+NHS Tameside and Glossop CCG,North West England,2018,E38000182,19014,0.092,9.2
+NHS Telford and Wrekin CCG,West Midlands,2018,E38000183,11874,0.086,8.6
+NHS Thanet CCG,South East England,2018,E38000184,11525,0.099,9.9
+NHS Thurrock CCG,East of England,2018,E38000185,10648,0.081,8.1
+NHS Tower Hamlets CCG,London,2018,E38000186,21418,0.084,8.4
+NHS Trafford CCG,North West England,2018,E38000187,15926,0.084,8.4
+NHS Vale of York CCG,Yorkshire and the Humber,2018,E38000188,23065,0.076,7.6
+NHS Vale Royal CCG,North West England,2018,E38000189,7252,0.087,8.7
+NHS Wakefield CCG,Yorkshire and the Humber,2018,E38000190,24639,0.09,9
+NHS Walsall CCG,West Midlands,2018,E38000191,22596,0.102,10.2
+NHS Waltham Forest CCG,London,2018,E38000192,22828,0.104,10.4
+NHS Wandsworth CCG,London,2018,E38000193,19296,0.072,7.2
+NHS Warrington CCG,North West England,2018,E38000194,13911,0.081,8.1
+NHS Warwickshire North CCG,West Midlands,2018,E38000195,14234,0.092,9.2
+NHS West Cheshire CCG,North West England,2018,E38000196,16578,0.086,8.6
+NHS West Essex CCG,East of England,2018,E38000197,20811,0.084,8.4
+NHS West Hampshire CCG,South East England,2018,E38000198,39560,0.085,8.5
+NHS West Kent CCG,South East England,2018,E38000199,31299,0.08,8
+NHS West Lancashire CCG,North West England,2018,E38000200,8169,0.088,8.8
+NHS West Leicestershire CCG,East Midlands,2018,E38000201,26698,0.082,8.2
+NHS West London CCG,London,2018,E38000202,16611,0.086,8.6
+NHS West Norfolk CCG,East of England,2018,E38000203,15121,0.103,10.3
+NHS West Suffolk CCG,East of England,2018,E38000204,16625,0.088,8.8
+NHS Wigan Borough CCG,North West England,2018,E38000205,22772,0.086,8.6
+NHS Wiltshire CCG,South West England,2018,E38000206,34108,0.085,8.5
+"NHS Windsor, Ascot and Maidenhead CCG",South East England,2018,E38000207,9130,0.078,7.8
+NHS Wirral CCG,North West England,2018,E38000208,24099,0.092,9.2
+NHS Wokingham CCG,South East England,2018,E38000209,9790,0.075,7.5
+NHS Wolverhampton CCG,West Midlands,2018,E38000210,23026,0.112,11.2
+NHS Wyre Forest CCG,West Midlands,2018,E38000211,8027,0.097,9.7
+"NHS Airedale, Wharfedale and Craven CCG",Yorkshire and the Humber,2019,E38000001,12658,0.096,9.6
+NHS Ashford CCG,South East England,2019,E38000002,9029,0.087,8.7
+NHS Aylesbury Vale CCG,South East England,2019,E38000003,13656,0.079,7.9
+NHS Barking and Dagenham CCG,London,2019,E38000004,14681,0.093,9.3
+NHS Barnet CCG,London,2019,E38000005,28157,0.088,8.8
+NHS Barnsley CCG,Yorkshire and the Humber,2019,E38000006,18240,0.091,9.1
+NHS Basildon and Brentwood CCG,East of England,2019,E38000007,17999,0.084,8.4
+NHS Bassetlaw CCG,Yorkshire and the Humber,2019,E38000008,8911,0.094,9.4
+NHS Bath and North East Somerset CCG,South West England,2019,E38000009,11727,0.076,7.6
+NHS Bedfordshire CCG,East of England,2019,E38000010,31107,0.084,8.4
+NHS Bexley CCG,London,2019,E38000011,16592,0.083,8.3
+NHS Birmingham CrossCity CCG,West Midlands,2019,E38000012,58748,0.1,10
+NHS Birmingham South and Central CCG,West Midlands,2019,E38000013,16472,0.1,10
+NHS Blackburn with Darwen CCG,North West England,2019,E38000014,11412,0.101,10.1
+NHS Blackpool CCG,North West England,2019,E38000015,11197,0.098,9.8
+NHS Bolton CCG,North West England,2019,E38000016,21409,0.095,9.5
+NHS Bracknell and Ascot CCG,South East England,2019,E38000017,8060,0.072,7.2
+NHS Bradford City CCG,Yorkshire and the Humber,2019,E38000018,6854,0.113,11.3
+NHS Bradford Districts CCG,Yorkshire and the Humber,2019,E38000019,27306,0.103,10.3
+NHS Brent CCG,London,2019,E38000020,32184,0.119,11.9
+NHS Brighton and Hove CCG,South East England,2019,E38000021,17287,0.07,7
+NHS Bristol CCG,South West England,2019,E38000022,27662,0.073,7.3
+NHS Bromley CCG,London,2019,E38000023,22578,0.083,8.3
+NHS Bury CCG,North West England,2019,E38000024,13643,0.089,8.9
+NHS Calderdale CCG,Yorkshire and the Humber,2019,E38000025,15942,0.093,9.3
+NHS Cambridgeshire and Peterborough CCG,East of England,2019,E38000026,59207,0.081,8.1
+NHS Camden CCG,London,2019,E38000027,17275,0.08,8
+NHS Cannock Chase CCG,West Midlands,2019,E38000028,9821,0.088,8.8
+NHS Canterbury and Coastal CCG,South East England,2019,E38000029,15041,0.085,8.5
+NHS Castle Point and Rochford CCG,East of England,2019,E38000030,13229,0.09,9
+NHS Central London (Westminster) CCG,London,2019,E38000031,12917,0.083,8.3
+NHS Central Manchester CCG,North West England,2019,E38000032,12374,0.08,8
+NHS Chiltern CCG,South East England,2019,E38000033,22825,0.087,8.7
+NHS Chorley and South Ribble CCG,North West England,2019,E38000034,12119,0.084,8.4
+NHS City and Hackney CCG,London,2019,E38000035,21858,0.093,9.3
+NHS Coastal West Sussex CCG,South East England,2019,E38000036,40767,0.097,9.7
+NHS Corby CCG,East Midlands,2019,E38000037,4386,0.079,7.9
+NHS Coventry and Rugby CCG,West Midlands,2019,E38000038,32463,0.086,8.6
+NHS Crawley CCG,South East England,2019,E38000039,7285,0.08,8
+NHS Croydon CCG,London,2019,E38000040,33372,0.107,10.7
+NHS Cumbria CCG,North West England,2019,E38000041,40648,0.097,9.7
+NHS Darlington CCG,North East England,2019,E38000042,7662,0.089,8.9
+"NHS Dartford, Gravesham and Swanley CCG",South East England,2019,E38000043,18501,0.086,8.6
+NHS Doncaster CCG,Yorkshire and the Humber,2019,E38000044,22749,0.092,9.2
+NHS Dorset CCG,South West England,2019,E38000045,60644,0.092,9.2
+NHS Dudley CCG,West Midlands,2019,E38000046,24632,0.096,9.6
+"NHS Durham Dales, Easington and Sedgefield CCG",North East England,2019,E38000047,21978,0.096,9.6
+NHS Ealing CCG,London,2019,E38000048,31241,0.111,11.1
+NHS East and North Hertfordshire CCG,East of England,2019,E38000049,36948,0.079,7.9
+NHS East Lancashire CCG,North West England,2019,E38000050,29080,0.097,9.7
+NHS East Leicestershire and Rutland CCG,East Midlands,2019,E38000051,24502,0.09,9
+NHS East Riding of Yorkshire CCG,Yorkshire and the Humber,2019,E38000052,25252,0.094,9.4
+NHS East Staffordshire CCG,West Midlands,2019,E38000053,9254,0.089,8.9
+NHS East Surrey CCG,South East England,2019,E38000054,11871,0.079,7.9
+"NHS Eastbourne, Hailsham and Seaford CCG",South East England,2019,E38000055,16226,0.1,10
+NHS Eastern Cheshire CCG,North West England,2019,E38000056,14928,0.09,9
+NHS Enfield CCG,London,2019,E38000057,26020,0.097,9.7
+NHS Erewash CCG,East Midlands,2019,E38000058,6946,0.087,8.7
+NHS Fareham and Gosport CCG,South East England,2019,E38000059,14156,0.084,8.4
+NHS Fylde & Wyre CCG,North West England,2019,E38000060,14218,0.1,10
+NHS Gloucestershire CCG,South West England,2019,E38000062,45203,0.087,8.7
+NHS Great Yarmouth and Waveney CCG,East of England,2019,E38000063,18478,0.103,10.3
+NHS Greater Huddersfield CCG,Yorkshire and the Humber,2019,E38000064,18591,0.092,9.2
+NHS Greater Preston CCG,North West England,2019,E38000065,14506,0.088,8.8
+NHS Greenwich CCG,London,2019,E38000066,19101,0.084,8.4
+NHS Guildford and Waverley CCG,South East England,2019,E38000067,12951,0.073,7.3
+NHS Halton CCG,North West England,2019,E38000068,9020,0.088,8.8
+"NHS Hambleton, Richmondshire and Whitby CCG",Yorkshire and the Humber,2019,E38000069,11766,0.092,9.2
+NHS Hammersmith and Fulham CCG,London,2019,E38000070,12027,0.078,7.8
+NHS Hardwick CCG,East Midlands,2019,E38000071,8678,0.094,9.4
+NHS Haringey CCG,London,2019,E38000072,21545,0.093,9.3
+NHS Harrogate and Rural District CCG,Yorkshire and the Humber,2019,E38000073,11341,0.087,8.7
+NHS Harrow CCG,London,2019,E38000074,22851,0.111,11.1
+NHS Hartlepool and Stockton-On-Tees CCG,North East England,2019,E38000075,20254,0.086,8.6
+NHS Hastings and Rother CCG,South East England,2019,E38000076,16266,0.104,10.4
+NHS Havering CCG,London,2019,E38000077,18069,0.087,8.7
+NHS Herefordshire CCG,West Midlands,2019,E38000078,15539,0.097,9.7
+NHS Herts Valleys CCG,East of England,2019,E38000079,38965,0.081,8.1
+"NHS Heywood, Middleton and Rochdale CCG",North West England,2019,E38000080,16798,0.099,9.9
+NHS High Weald Lewes Havens CCG,South East England,2019,E38000081,12942,0.088,8.8
+NHS Hillingdon CCG,London,2019,E38000082,22170,0.089,8.9
+NHS Horsham and Mid Sussex CCG,South East England,2019,E38000083,15126,0.079,7.9
+NHS Hounslow CCG,London,2019,E38000084,22253,0.099,9.9
+NHS Hull CCG,Yorkshire and the Humber,2019,E38000085,17003,0.081,8.1
+NHS Ipswich and East Suffolk CCG,East of England,2019,E38000086,30935,0.093,9.3
+NHS Isle of Wight CCG,South East England,2019,E38000087,12671,0.106,10.6
+NHS Islington CCG,London,2019,E38000088,15217,0.074,7.4
+NHS Kernow CCG,South West England,2019,E38000089,47435,0.101,10.1
+NHS Kingston CCG,London,2019,E38000090,10047,0.068,6.8
+NHS Knowsley CCG,North West England,2019,E38000091,10821,0.092,9.2
+NHS Lambeth CCG,London,2019,E38000092,25415,0.091,9.1
+NHS Lancashire North CCG,North West England,2019,E38000093,11465,0.085,8.5
+NHS Leeds North CCG,Yorkshire and the Humber,2019,E38000094,15238,0.091,9.1
+NHS Leeds South and East CCG,Yorkshire and the Humber,2019,E38000095,16529,0.083,8.3
+NHS Leeds West CCG,Yorkshire and the Humber,2019,E38000096,19524,0.072,7.2
+NHS Leicester City CCG,East Midlands,2019,E38000097,30800,0.111,11.1
+NHS Lewisham CCG,London,2019,E38000098,24210,0.097,9.7
+NHS Lincolnshire East CCG,East Midlands,2019,E38000099,20966,0.106,10.6
+NHS Lincolnshire West CCG,East Midlands,2019,E38000100,16688,0.085,8.5
+NHS Liverpool CCG,North West England,2019,E38000101,31918,0.08,8
+NHS Luton CCG,East of England,2019,E38000102,17882,0.103,10.3
+NHS Mansfield and Ashfield CCG,East Midlands,2019,E38000103,14839,0.091,9.1
+NHS Medway CCG,South East England,2019,E38000104,18718,0.082,8.2
+NHS Merton CCG,London,2019,E38000105,14205,0.083,8.3
+NHS Mid Essex CCG,East of England,2019,E38000106,27401,0.085,8.5
+NHS Milton Keynes CCG,South East England,2019,E38000107,17320,0.079,7.9
+NHS Nene CCG,East of England,2019,E38000108,45350,0.086,8.6
+NHS Newark & Sherwood CCG,East Midlands,2019,E38000109,9151,0.092,9.2
+NHS Newbury and District CCG,South East England,2019,E38000110,6776,0.079,7.9
+NHS Newcastle Gateshead CCG,North East England,2019,E38000212,32488,0.079,7.9
+NHS Newham CCG,London,2019,E38000113,29910,0.108,10.8
+NHS North & West Reading CCG,South East England,2019,E38000114,6670,0.081,8.1
+NHS North Derbyshire CCG,East Midlands,2019,E38000115,21213,0.092,9.2
+NHS North Durham CCG,North East England,2019,E38000116,17429,0.084,8.4
+NHS North East Essex CCG,East of England,2019,E38000117,25304,0.092,9.2
+NHS North East Hampshire and Farnham CCG,South East England,2019,E38000118,12751,0.075,7.5
+NHS North East Lincolnshire CCG,Yorkshire and the Humber,2019,E38000119,11749,0.091,9.1
+NHS North Hampshire CCG,South East England,2019,E38000120,14175,0.078,7.8
+NHS North Kirklees CCG,Yorkshire and the Humber,2019,E38000121,15392,0.1,10
+NHS North Lincolnshire CCG,Yorkshire and the Humber,2019,E38000122,12745,0.091,9.1
+NHS North Manchester CCG,North West England,2019,E38000123,11020,0.076,7.6
+NHS North Norfolk CCG,East of England,2019,E38000124,15699,0.107,10.7
+NHS North Somerset CCG,South West England,2019,E38000125,15974,0.09,9
+NHS North Staffordshire CCG,West Midlands,2019,E38000126,16029,0.088,8.8
+NHS North Tyneside CCG,North East England,2019,E38000127,14771,0.087,8.7
+NHS North West Surrey CCG,South East England,2019,E38000128,22641,0.08,8
+"NHS North, East, West Devon CCG",South West England,2019,E38000129,68173,0.091,9.1
+NHS Northumberland CCG,North East England,2019,E38000130,25631,0.096,9.6
+NHS Norwich CCG,East of England,2019,E38000131,13337,0.079,7.9
+NHS Nottingham City CCG,East Midlands,2019,E38000132,20687,0.079,7.9
+NHS Nottingham North and East CCG,East Midlands,2019,E38000133,10870,0.087,8.7
+NHS Nottingham West CCG,East Midlands,2019,E38000134,7999,0.084,8.4
+NHS Oldham CCG,North West England,2019,E38000135,17468,0.096,9.6
+NHS Oxfordshire CCG,South East England,2019,E38000136,42204,0.076,7.6
+NHS Portsmouth CCG,South East England,2019,E38000137,12906,0.073,7.3
+NHS Redbridge CCG,London,2019,E38000138,26750,0.109,10.9
+NHS Redditch and Bromsgrove CCG,West Midlands,2019,E38000139,13096,0.088,8.8
+NHS Richmond CCG,London,2019,E38000140,11852,0.072,7.2
+NHS Rotherham CCG,Yorkshire and the Humber,2019,E38000141,19745,0.093,9.3
+NHS Rushcliffe CCG,East Midlands,2019,E38000142,7788,0.08,8
+NHS Salford CCG,North West England,2019,E38000143,16085,0.079,7.9
+NHS Sandwell and West Birmingham CCG,West Midlands,2019,E38000144,45292,0.117,11.7
+NHS Scarborough and Ryedale CCG,Yorkshire and the Humber,2019,E38000145,9347,0.101,10.1
+NHS Sheffield CCG,Yorkshire and the Humber,2019,E38000146,39150,0.082,8.2
+NHS Shropshire CCG,West Midlands,2019,E38000147,25085,0.095,9.5
+NHS Slough CCG,South East England,2019,E38000148,11886,0.105,10.5
+NHS Solihull CCG,West Midlands,2019,E38000149,15931,0.092,9.2
+NHS Somerset CCG,South West England,2019,E38000150,43896,0.095,9.5
+NHS South Cheshire CCG,North West England,2019,E38000151,12934,0.087,8.7
+NHS South Devon and Torbay CCG,South West England,2019,E38000152,24589,0.104,10.4
+NHS South East Staffordshire and Seisdon Peninsula CCG,West Midlands,2019,E38000153,16754,0.089,8.9
+NHS South Eastern Hampshire CCG,South East England,2019,E38000154,15875,0.09,9
+NHS South Gloucestershire CCG,South West England,2019,E38000155,17943,0.078,7.8
+NHS South Kent Coast CCG,South East England,2019,E38000156,17066,0.098,9.8
+NHS South Lincolnshire CCG,East Midlands,2019,E38000157,11273,0.091,9.1
+NHS South Manchester CCG,North West England,2019,E38000158,10169,0.074,7.4
+NHS South Norfolk CCG,East of England,2019,E38000159,19182,0.093,9.3
+NHS South Reading CCG,South East England,2019,E38000160,6405,0.071,7.1
+NHS South Sefton CCG,North West England,2019,E38000161,12334,0.095,9.5
+NHS South Tees CCG,North East England,2019,E38000162,20459,0.092,9.2
+NHS South Tyneside CCG,North East England,2019,E38000163,11659,0.094,9.4
+NHS South Warwickshire CCG,West Midlands,2019,E38000164,19018,0.086,8.6
+NHS South West Lincolnshire CCG,East Midlands,2019,E38000165,9499,0.09,9
+NHS South Worcestershire CCG,West Midlands,2019,E38000166,23149,0.091,9.1
+NHS Southampton CCG,South East England,2019,E38000167,15048,0.072,7.2
+NHS Southend CCG,East of England,2019,E38000168,13403,0.09,9
+NHS Southern Derbyshire CCG,East Midlands,2019,E38000169,38970,0.089,8.9
+NHS Southport and Formby CCG,North West England,2019,E38000170,9678,0.101,10.1
+NHS Southwark CCG,London,2019,E38000171,23916,0.089,8.9
+NHS St Helens CCG,North West England,2019,E38000172,13648,0.093,9.3
+NHS Stafford and Surrounds CCG,West Midlands,2019,E38000173,11349,0.087,8.7
+NHS Stockport CCG,North West England,2019,E38000174,20955,0.089,8.9
+NHS Stoke on Trent CCG,West Midlands,2019,E38000175,19076,0.091,9.1
+NHS Sunderland CCG,North East England,2019,E38000176,20643,0.09,9
+NHS Surrey Downs CCG,South East England,2019,E38000177,19444,0.081,8.1
+NHS Surrey Heath CCG,South East England,2019,E38000178,6221,0.079,7.9
+NHS Sutton CCG,London,2019,E38000179,13390,0.081,8.1
+NHS Swale CCG,South East England,2019,E38000180,8278,0.089,8.9
+NHS Swindon CCG,South West England,2019,E38000181,14552,0.079,7.9
+NHS Tameside and Glossop CCG,North West England,2019,E38000182,19208,0.093,9.3
+NHS Telford and Wrekin CCG,West Midlands,2019,E38000183,12097,0.087,8.7
+NHS Thanet CCG,South East England,2019,E38000184,11634,0.099,9.9
+NHS Thurrock CCG,East of England,2019,E38000185,10842,0.081,8.1
+NHS Tower Hamlets CCG,London,2019,E38000186,22133,0.085,8.5
+NHS Trafford CCG,North West England,2019,E38000187,16149,0.084,8.4
+NHS Vale of York CCG,Yorkshire and the Humber,2019,E38000188,23443,0.077,7.7
+NHS Vale Royal CCG,North West England,2019,E38000189,7246,0.087,8.7
+NHS Wakefield CCG,Yorkshire and the Humber,2019,E38000190,24961,0.091,9.1
+NHS Walsall CCG,West Midlands,2019,E38000191,22851,0.103,10.3
+NHS Waltham Forest CCG,London,2019,E38000192,23314,0.105,10.5
+NHS Wandsworth CCG,London,2019,E38000193,19531,0.072,7.2
+NHS Warrington CCG,North West England,2019,E38000194,14132,0.082,8.2
+NHS Warwickshire North CCG,West Midlands,2019,E38000195,14433,0.093,9.3
+NHS West Cheshire CCG,North West England,2019,E38000196,16810,0.087,8.7
+NHS West Essex CCG,East of England,2019,E38000197,21198,0.085,8.5
+NHS West Hampshire CCG,South East England,2019,E38000198,40253,0.086,8.6
+NHS West Kent CCG,South East England,2019,E38000199,31795,0.081,8.1
+NHS West Lancashire CCG,North West England,2019,E38000200,8240,0.088,8.8
+NHS West Leicestershire CCG,East Midlands,2019,E38000201,27153,0.083,8.3
+NHS West London CCG,London,2019,E38000202,16866,0.088,8.8
+NHS West Norfolk CCG,East of England,2019,E38000203,15417,0.104,10.4
+NHS West Suffolk CCG,East of England,2019,E38000204,16889,0.089,8.9
+NHS Wigan Borough CCG,North West England,2019,E38000205,23150,0.087,8.7
+NHS Wiltshire CCG,South West England,2019,E38000206,34744,0.086,8.6
+"NHS Windsor, Ascot and Maidenhead CCG",South East England,2019,E38000207,9336,0.079,7.9
+NHS Wirral CCG,North West England,2019,E38000208,24314,0.093,9.3
+NHS Wokingham CCG,South East England,2019,E38000209,9953,0.076,7.6
+NHS Wolverhampton CCG,West Midlands,2019,E38000210,23142,0.113,11.3
+NHS Wyre Forest CCG,West Midlands,2019,E38000211,8201,0.099,9.9
+"NHS Airedale, Wharfedale and Craven CCG",Yorkshire and the Humber,2020,E38000001,12752,0.097,9.7
+NHS Ashford CCG,South East England,2020,E38000002,9200,0.087,8.7
+NHS Aylesbury Vale CCG,South East England,2020,E38000003,13954,0.08,8
+NHS Barking and Dagenham CCG,London,2020,E38000004,14932,0.093,9.3
+NHS Barnet CCG,London,2020,E38000005,28727,0.089,8.9
+NHS Barnsley CCG,Yorkshire and the Humber,2020,E38000006,18504,0.092,9.2
+NHS Basildon and Brentwood CCG,East of England,2020,E38000007,18231,0.085,8.5
+NHS Bassetlaw CCG,Yorkshire and the Humber,2020,E38000008,9122,0.095,9.5
+NHS Bath and North East Somerset CCG,South West England,2020,E38000009,11810,0.076,7.6
+NHS Bedfordshire CCG,East of England,2020,E38000010,31721,0.084,8.4
+NHS Bexley CCG,London,2020,E38000011,16810,0.083,8.3
+NHS Birmingham CrossCity CCG,West Midlands,2020,E38000012,59387,0.1,10
+NHS Birmingham South and Central CCG,West Midlands,2020,E38000013,16586,0.101,10.1
+NHS Blackburn with Darwen CCG,North West England,2020,E38000014,11472,0.102,10.2
+NHS Blackpool CCG,North West England,2020,E38000015,11198,0.099,9.9
+NHS Bolton CCG,North West England,2020,E38000016,21649,0.095,9.5
+NHS Bracknell and Ascot CCG,South East England,2020,E38000017,8220,0.072,7.2
+NHS Bradford City CCG,Yorkshire and the Humber,2020,E38000018,6854,0.113,11.3
+NHS Bradford Districts CCG,Yorkshire and the Humber,2020,E38000019,27620,0.104,10.4
+NHS Brent CCG,London,2020,E38000020,32766,0.12,12
+NHS Brighton and Hove CCG,South East England,2020,E38000021,17497,0.071,7.1
+NHS Bristol CCG,South West England,2020,E38000022,27873,0.073,7.3
+NHS Bromley CCG,London,2020,E38000023,22921,0.084,8.4
+NHS Bury CCG,North West England,2020,E38000024,13769,0.09,9
+NHS Calderdale CCG,Yorkshire and the Humber,2020,E38000025,16142,0.094,9.4
+NHS Cambridgeshire and Peterborough CCG,East of England,2020,E38000026,60210,0.082,8.2
+NHS Camden CCG,London,2020,E38000027,17644,0.08,8
+NHS Cannock Chase CCG,West Midlands,2020,E38000028,9905,0.088,8.8
+NHS Canterbury and Coastal CCG,South East England,2020,E38000029,15230,0.085,8.5
+NHS Castle Point and Rochford CCG,East of England,2020,E38000030,13366,0.091,9.1
+NHS Central London (Westminster) CCG,London,2020,E38000031,13249,0.084,8.4
+NHS Central Manchester CCG,North West England,2020,E38000032,12534,0.081,8.1
+NHS Chiltern CCG,South East England,2020,E38000033,23167,0.087,8.7
+NHS Chorley and South Ribble CCG,North West England,2020,E38000034,12355,0.086,8.6
+NHS City and Hackney CCG,London,2020,E38000035,22385,0.094,9.4
+NHS Coastal West Sussex CCG,South East England,2020,E38000036,41463,0.098,9.8
+NHS Corby CCG,East Midlands,2020,E38000037,4497,0.08,8
+NHS Coventry and Rugby CCG,West Midlands,2020,E38000038,32917,0.087,8.7
+NHS Crawley CCG,South East England,2020,E38000039,7374,0.08,8
+NHS Croydon CCG,London,2020,E38000040,34025,0.108,10.8
+NHS Cumbria CCG,North West England,2020,E38000041,40966,0.098,9.8
+NHS Darlington CCG,North East England,2020,E38000042,7762,0.09,9
+"NHS Dartford, Gravesham and Swanley CCG",South East England,2020,E38000043,18749,0.087,8.7
+NHS Doncaster CCG,Yorkshire and the Humber,2020,E38000044,22890,0.092,9.2
+NHS Dorset CCG,South West England,2020,E38000045,61593,0.093,9.3
+NHS Dudley CCG,West Midlands,2020,E38000046,24867,0.096,9.6
+"NHS Durham Dales, Easington and Sedgefield CCG",North East England,2020,E38000047,22185,0.097,9.7
+NHS Ealing CCG,London,2020,E38000048,31681,0.112,11.2
+NHS East and North Hertfordshire CCG,East of England,2020,E38000049,37465,0.08,8
+NHS East Lancashire CCG,North West England,2020,E38000050,29358,0.098,9.8
+NHS East Leicestershire and Rutland CCG,East Midlands,2020,E38000051,24832,0.091,9.1
+NHS East Riding of Yorkshire CCG,Yorkshire and the Humber,2020,E38000052,25616,0.095,9.5
+NHS East Staffordshire CCG,West Midlands,2020,E38000053,9358,0.089,8.9
+NHS East Surrey CCG,South East England,2020,E38000054,12131,0.079,7.9
+"NHS Eastbourne, Hailsham and Seaford CCG",South East England,2020,E38000055,16545,0.101,10.1
+NHS Eastern Cheshire CCG,North West England,2020,E38000056,15195,0.091,9.1
+NHS Enfield CCG,London,2020,E38000057,26442,0.097,9.7
+NHS Erewash CCG,East Midlands,2020,E38000058,7052,0.087,8.7
+NHS Fareham and Gosport CCG,South East England,2020,E38000059,14375,0.085,8.5
+NHS Fylde & Wyre CCG,North West England,2020,E38000060,14430,0.101,10.1
+NHS Gloucestershire CCG,South West England,2020,E38000062,45903,0.088,8.8
+NHS Great Yarmouth and Waveney CCG,East of England,2020,E38000063,18723,0.104,10.4
+NHS Greater Huddersfield CCG,Yorkshire and the Humber,2020,E38000064,18811,0.092,9.2
+NHS Greater Preston CCG,North West England,2020,E38000065,14620,0.088,8.8
+NHS Greenwich CCG,London,2020,E38000066,19517,0.085,8.5
+NHS Guildford and Waverley CCG,South East England,2020,E38000067,13083,0.073,7.3
+NHS Halton CCG,North West England,2020,E38000068,9137,0.089,8.9
+"NHS Hambleton, Richmondshire and Whitby CCG",Yorkshire and the Humber,2020,E38000069,11853,0.093,9.3
+NHS Hammersmith and Fulham CCG,London,2020,E38000070,12312,0.08,8
+NHS Hardwick CCG,East Midlands,2020,E38000071,8786,0.095,9.5
+NHS Haringey CCG,London,2020,E38000072,21952,0.094,9.4
+NHS Harrogate and Rural District CCG,Yorkshire and the Humber,2020,E38000073,11431,0.088,8.8
+NHS Harrow CCG,London,2020,E38000074,23245,0.112,11.2
+NHS Hartlepool and Stockton-On-Tees CCG,North East England,2020,E38000075,20439,0.087,8.7
+NHS Hastings and Rother CCG,South East England,2020,E38000076,16529,0.105,10.5
+NHS Havering CCG,London,2020,E38000077,18314,0.087,8.7
+NHS Herefordshire CCG,West Midlands,2020,E38000078,15750,0.098,9.8
+NHS Herts Valleys CCG,East of England,2020,E38000079,39573,0.081,8.1
+"NHS Heywood, Middleton and Rochdale CCG",North West England,2020,E38000080,16952,0.1,10
+NHS High Weald Lewes Havens CCG,South East England,2020,E38000081,13183,0.089,8.9
+NHS Hillingdon CCG,London,2020,E38000082,22546,0.089,8.9
+NHS Horsham and Mid Sussex CCG,South East England,2020,E38000083,15363,0.08,8
+NHS Hounslow CCG,London,2020,E38000084,22751,0.1,10
+NHS Hull CCG,Yorkshire and the Humber,2020,E38000085,17146,0.082,8.2
+NHS Ipswich and East Suffolk CCG,East of England,2020,E38000086,31403,0.094,9.4
+NHS Isle of Wight CCG,South East England,2020,E38000087,12887,0.107,10.7
+NHS Islington CCG,London,2020,E38000088,15517,0.075,7.5
+NHS Kernow CCG,South West England,2020,E38000089,48127,0.101,10.1
+NHS Kingston CCG,London,2020,E38000090,10230,0.068,6.8
+NHS Knowsley CCG,North West England,2020,E38000091,10897,0.092,9.2
+NHS Lambeth CCG,London,2020,E38000092,25969,0.092,9.2
+NHS Lancashire North CCG,North West England,2020,E38000093,11554,0.085,8.5
+NHS Leeds North CCG,Yorkshire and the Humber,2020,E38000094,15382,0.092,9.2
+NHS Leeds South and East CCG,Yorkshire and the Humber,2020,E38000095,16710,0.084,8.4
+NHS Leeds West CCG,Yorkshire and the Humber,2020,E38000096,19732,0.072,7.2
+NHS Leicester City CCG,East Midlands,2020,E38000097,31169,0.111,11.1
+NHS Lewisham CCG,London,2020,E38000098,24753,0.098,9.8
+NHS Lincolnshire East CCG,East Midlands,2020,E38000099,21230,0.107,10.7
+NHS Lincolnshire West CCG,East Midlands,2020,E38000100,16975,0.086,8.6
+NHS Liverpool CCG,North West England,2020,E38000101,32165,0.08,8
+NHS Luton CCG,East of England,2020,E38000102,18138,0.104,10.4
+NHS Mansfield and Ashfield CCG,East Midlands,2020,E38000103,15013,0.092,9.2
+NHS Medway CCG,South East England,2020,E38000104,19033,0.082,8.2
+NHS Merton CCG,London,2020,E38000105,14501,0.084,8.4
+NHS Mid Essex CCG,East of England,2020,E38000106,27827,0.085,8.5
+NHS Milton Keynes CCG,South East England,2020,E38000107,17738,0.08,8
+NHS Nene CCG,East of England,2020,E38000108,46133,0.087,8.7
+NHS Newark & Sherwood CCG,East Midlands,2020,E38000109,9248,0.092,9.2
+NHS Newbury and District CCG,South East England,2020,E38000110,6912,0.08,8
+NHS Newcastle Gateshead CCG,North East England,2020,E38000212,32891,0.079,7.9
+NHS Newham CCG,London,2020,E38000113,30662,0.109,10.9
+NHS North & West Reading CCG,South East England,2020,E38000114,6807,0.082,8.2
+NHS North Derbyshire CCG,East Midlands,2020,E38000115,21498,0.093,9.3
+NHS North Durham CCG,North East England,2020,E38000116,17684,0.085,8.5
+NHS North East Essex CCG,East of England,2020,E38000117,25657,0.093,9.3
+NHS North East Hampshire and Farnham CCG,South East England,2020,E38000118,12960,0.076,7.6
+NHS North East Lincolnshire CCG,Yorkshire and the Humber,2020,E38000119,11857,0.091,9.1
+NHS North Hampshire CCG,South East England,2020,E38000120,14425,0.078,7.8
+NHS North Kirklees CCG,Yorkshire and the Humber,2020,E38000121,15566,0.101,10.1
+NHS North Lincolnshire CCG,Yorkshire and the Humber,2020,E38000122,12947,0.092,9.2
+NHS North Manchester CCG,North West England,2020,E38000123,11180,0.076,7.6
+NHS North Norfolk CCG,East of England,2020,E38000124,15875,0.107,10.7
+NHS North Somerset CCG,South West England,2020,E38000125,16263,0.091,9.1
+NHS North Staffordshire CCG,West Midlands,2020,E38000126,16174,0.088,8.8
+NHS North Tyneside CCG,North East England,2020,E38000127,14980,0.087,8.7
+NHS North West Surrey CCG,South East England,2020,E38000128,22922,0.08,8
+"NHS North, East, West Devon CCG",South West England,2020,E38000129,69080,0.091,9.1
+NHS Northumberland CCG,North East England,2020,E38000130,25972,0.098,9.8
+NHS Norwich CCG,East of England,2020,E38000131,13499,0.079,7.9
+NHS Nottingham City CCG,East Midlands,2020,E38000132,20923,0.08,8
+NHS Nottingham North and East CCG,East Midlands,2020,E38000133,11064,0.087,8.7
+NHS Nottingham West CCG,East Midlands,2020,E38000134,8120,0.085,8.5
+NHS Oldham CCG,North West England,2020,E38000135,17669,0.097,9.7
+NHS Oxfordshire CCG,South East England,2020,E38000136,42884,0.077,7.7
+NHS Portsmouth CCG,South East England,2020,E38000137,13073,0.074,7.4
+NHS Redbridge CCG,London,2020,E38000138,27235,0.11,11
+NHS Redditch and Bromsgrove CCG,West Midlands,2020,E38000139,13253,0.089,8.9
+NHS Richmond CCG,London,2020,E38000140,12121,0.073,7.3
+NHS Rotherham CCG,Yorkshire and the Humber,2020,E38000141,19939,0.093,9.3
+NHS Rushcliffe CCG,East Midlands,2020,E38000142,7889,0.081,8.1
+NHS Salford CCG,North West England,2020,E38000143,16247,0.079,7.9
+NHS Sandwell and West Birmingham CCG,West Midlands,2020,E38000144,45760,0.117,11.7
+NHS Scarborough and Ryedale CCG,Yorkshire and the Humber,2020,E38000145,9520,0.103,10.3
+NHS Sheffield CCG,Yorkshire and the Humber,2020,E38000146,39546,0.083,8.3
+NHS Shropshire CCG,West Midlands,2020,E38000147,25511,0.096,9.6
+NHS Slough CCG,South East England,2020,E38000148,12128,0.106,10.6
+NHS Solihull CCG,West Midlands,2020,E38000149,16061,0.092,9.2
+NHS Somerset CCG,South West England,2020,E38000150,44569,0.096,9.6
+NHS South Cheshire CCG,North West England,2020,E38000151,13086,0.088,8.8
+NHS South Devon and Torbay CCG,South West England,2020,E38000152,24929,0.105,10.5
+NHS South East Staffordshire and Seisdon Peninsula CCG,West Midlands,2020,E38000153,17026,0.09,9
+NHS South Eastern Hampshire CCG,South East England,2020,E38000154,16087,0.09,9
+NHS South Gloucestershire CCG,South West England,2020,E38000155,18246,0.078,7.8
+NHS South Kent Coast CCG,South East England,2020,E38000156,17283,0.099,9.9
+NHS South Lincolnshire CCG,East Midlands,2020,E38000157,11512,0.092,9.2
+NHS South Manchester CCG,North West England,2020,E38000158,10261,0.074,7.4
+NHS South Norfolk CCG,East of England,2020,E38000159,19518,0.094,9.4
+NHS South Reading CCG,South East England,2020,E38000160,6480,0.072,7.2
+NHS South Sefton CCG,North West England,2020,E38000161,12365,0.095,9.5
+NHS South Tees CCG,North East England,2020,E38000162,20687,0.093,9.3
+NHS South Tyneside CCG,North East England,2020,E38000163,11739,0.095,9.5
+NHS South Warwickshire CCG,West Midlands,2020,E38000164,19289,0.087,8.7
+NHS South West Lincolnshire CCG,East Midlands,2020,E38000165,9712,0.091,9.1
+NHS South Worcestershire CCG,West Midlands,2020,E38000166,23453,0.092,9.2
+NHS Southampton CCG,South East England,2020,E38000167,15242,0.073,7.3
+NHS Southend CCG,East of England,2020,E38000168,13608,0.09,9
+NHS Southern Derbyshire CCG,East Midlands,2020,E38000169,39491,0.09,9
+NHS Southport and Formby CCG,North West England,2020,E38000170,9765,0.101,10.1
+NHS Southwark CCG,London,2020,E38000171,24437,0.09,9
+NHS St Helens CCG,North West England,2020,E38000172,13778,0.093,9.3
+NHS Stafford and Surrounds CCG,West Midlands,2020,E38000173,11524,0.088,8.8
+NHS Stockport CCG,North West England,2020,E38000174,21263,0.089,8.9
+NHS Stoke on Trent CCG,West Midlands,2020,E38000175,19317,0.092,9.2
+NHS Sunderland CCG,North East England,2020,E38000176,20798,0.09,9
+NHS Surrey Downs CCG,South East England,2020,E38000177,19752,0.082,8.2
+NHS Surrey Heath CCG,South East England,2020,E38000178,6337,0.08,8
+NHS Sutton CCG,London,2020,E38000179,13639,0.081,8.1
+NHS Swale CCG,South East England,2020,E38000180,8424,0.089,8.9
+NHS Swindon CCG,South West England,2020,E38000181,14815,0.08,8
+NHS Tameside and Glossop CCG,North West England,2020,E38000182,19412,0.093,9.3
+NHS Telford and Wrekin CCG,West Midlands,2020,E38000183,12293,0.089,8.9
+NHS Thanet CCG,South East England,2020,E38000184,11900,0.1,10
+NHS Thurrock CCG,East of England,2020,E38000185,11023,0.082,8.2
+NHS Tower Hamlets CCG,London,2020,E38000186,22856,0.086,8.6
+NHS Trafford CCG,North West England,2020,E38000187,16338,0.085,8.5
+NHS Vale of York CCG,Yorkshire and the Humber,2020,E38000188,23706,0.078,7.8
+NHS Vale Royal CCG,North West England,2020,E38000189,7451,0.089,8.9
+NHS Wakefield CCG,Yorkshire and the Humber,2020,E38000190,25249,0.091,9.1
+NHS Walsall CCG,West Midlands,2020,E38000191,23065,0.103,10.3
+NHS Waltham Forest CCG,London,2020,E38000192,23702,0.105,10.5
+NHS Wandsworth CCG,London,2020,E38000193,19860,0.073,7.3
+NHS Warrington CCG,North West England,2020,E38000194,14365,0.083,8.3
+NHS Warwickshire North CCG,West Midlands,2020,E38000195,14632,0.093,9.3
+NHS West Cheshire CCG,North West England,2020,E38000196,17001,0.088,8.8
+NHS West Essex CCG,East of England,2020,E38000197,21559,0.085,8.5
+NHS West Hampshire CCG,South East England,2020,E38000198,40875,0.087,8.7
+NHS West Kent CCG,South East England,2020,E38000199,32328,0.081,8.1
+NHS West Lancashire CCG,North West England,2020,E38000200,8320,0.089,8.9
+NHS West Leicestershire CCG,East Midlands,2020,E38000201,27604,0.084,8.4
+NHS West London CCG,London,2020,E38000202,17173,0.089,8.9
+NHS West Norfolk CCG,East of England,2020,E38000203,15550,0.105,10.5
+NHS West Suffolk CCG,East of England,2020,E38000204,17215,0.09,9
+NHS Wigan Borough CCG,North West England,2020,E38000205,23443,0.088,8.8
+NHS Wiltshire CCG,South West England,2020,E38000206,35264,0.086,8.6
+"NHS Windsor, Ascot and Maidenhead CCG",South East England,2020,E38000207,9470,0.08,8
+NHS Wirral CCG,North West England,2020,E38000208,24561,0.093,9.3
+NHS Wokingham CCG,South East England,2020,E38000209,10091,0.076,7.6
+NHS Wolverhampton CCG,West Midlands,2020,E38000210,23281,0.113,11.3
+NHS Wyre Forest CCG,West Midlands,2020,E38000211,8291,0.1,10
+"NHS Airedale, Wharfedale and Craven CCG",Yorkshire and the Humber,2025,E38000001,13659,0.1,10
+NHS Ashford CCG,South East England,2025,E38000002,10160,0.091,9.1
+NHS Aylesbury Vale CCG,South East England,2025,E38000003,15393,0.083,8.3
+NHS Barking and Dagenham CCG,London,2025,E38000004,16511,0.094,9.4
+NHS Barnet CCG,London,2025,E38000005,31928,0.092,9.2
+NHS Barnsley CCG,Yorkshire and the Humber,2025,E38000006,19866,0.095,9.5
+NHS Basildon and Brentwood CCG,East of England,2025,E38000007,19588,0.088,8.8
+NHS Bassetlaw CCG,Yorkshire and the Humber,2025,E38000008,9674,0.099,9.9
+NHS Bath and North East Somerset CCG,South West England,2025,E38000009,12564,0.079,7.9
+NHS Bedfordshire CCG,East of England,2025,E38000010,35026,0.088,8.8
+NHS Bexley CCG,London,2025,E38000011,18106,0.085,8.5
+NHS Birmingham CrossCity CCG,West Midlands,2025,E38000012,62840,0.102,10.2
+NHS Birmingham South and Central CCG,West Midlands,2025,E38000013,17541,0.103,10.3
+NHS Blackburn with Darwen CCG,North West England,2025,E38000014,11902,0.105,10.5
+NHS Blackpool CCG,North West England,2025,E38000015,11554,0.102,10.2
+NHS Bolton CCG,North West England,2025,E38000016,22909,0.099,9.9
+NHS Bracknell and Ascot CCG,South East England,2025,E38000017,9023,0.076,7.6
+NHS Bradford City CCG,Yorkshire and the Humber,2025,E38000018,7185,0.116,11.6
+NHS Bradford Districts CCG,Yorkshire and the Humber,2025,E38000019,29321,0.107,10.7
+NHS Brent CCG,London,2025,E38000020,36051,0.126,12.6
+NHS Brighton and Hove CCG,South East England,2025,E38000021,18802,0.074,7.4
+NHS Bristol CCG,South West England,2025,E38000022,29598,0.075,7.5
+NHS Bromley CCG,London,2025,E38000023,24871,0.086,8.6
+NHS Bury CCG,North West England,2025,E38000024,14662,0.093,9.3
+NHS Calderdale CCG,Yorkshire and the Humber,2025,E38000025,17343,0.098,9.8
+NHS Cambridgeshire and Peterborough CCG,East of England,2025,E38000026,65815,0.085,8.5
+NHS Camden CCG,London,2025,E38000027,19552,0.084,8.4
+NHS Cannock Chase CCG,West Midlands,2025,E38000028,10581,0.093,9.3
+NHS Canterbury and Coastal CCG,South East England,2025,E38000029,16623,0.089,8.9
+NHS Castle Point and Rochford CCG,East of England,2025,E38000030,14344,0.095,9.5
+NHS Central London (Westminster) CCG,London,2025,E38000031,14688,0.089,8.9
+NHS Central Manchester CCG,North West England,2025,E38000032,13371,0.084,8.4
+NHS Chiltern CCG,South East England,2025,E38000033,24654,0.09,9
+NHS Chorley and South Ribble CCG,North West England,2025,E38000034,13319,0.089,8.9
+NHS City and Hackney CCG,London,2025,E38000035,25035,0.098,9.8
+NHS Coastal West Sussex CCG,South East England,2025,E38000036,45271,0.102,10.2
+NHS Corby CCG,East Midlands,2025,E38000037,5006,0.083,8.3
+NHS Coventry and Rugby CCG,West Midlands,2025,E38000038,35345,0.088,8.8
+NHS Crawley CCG,South East England,2025,E38000039,8125,0.084,8.4
+NHS Croydon CCG,London,2025,E38000040,37205,0.112,11.2
+NHS Cumbria CCG,North West England,2025,E38000041,42874,0.102,10.2
+NHS Darlington CCG,North East England,2025,E38000042,8201,0.094,9.4
+"NHS Dartford, Gravesham and Swanley CCG",South East England,2025,E38000043,20352,0.089,8.9
+NHS Doncaster CCG,Yorkshire and the Humber,2025,E38000044,24149,0.096,9.6
+NHS Dorset CCG,South West England,2025,E38000045,66450,0.097,9.7
+NHS Dudley CCG,West Midlands,2025,E38000046,25986,0.099,9.9
+"NHS Durham Dales, Easington and Sedgefield CCG",North East England,2025,E38000047,23511,0.1,10
+NHS Ealing CCG,London,2025,E38000048,34545,0.117,11.7
+NHS East and North Hertfordshire CCG,East of England,2025,E38000049,40801,0.083,8.3
+NHS East Lancashire CCG,North West England,2025,E38000050,30996,0.102,10.2
+NHS East Leicestershire and Rutland CCG,East Midlands,2025,E38000051,26717,0.094,9.4
+NHS East Riding of Yorkshire CCG,Yorkshire and the Humber,2025,E38000052,27328,0.099,9.9
+NHS East Staffordshire CCG,West Midlands,2025,E38000053,10060,0.093,9.3
+NHS East Surrey CCG,South East England,2025,E38000054,13311,0.083,8.3
+"NHS Eastbourne, Hailsham and Seaford CCG",South East England,2025,E38000055,18185,0.106,10.6
+NHS Eastern Cheshire CCG,North West England,2025,E38000056,16303,0.095,9.5
+NHS Enfield CCG,London,2025,E38000057,29101,0.101,10.1
+NHS Erewash CCG,East Midlands,2025,E38000058,7557,0.091,9.1
+NHS Fareham and Gosport CCG,South East England,2025,E38000059,15542,0.089,8.9
+NHS Fylde & Wyre CCG,North West England,2025,E38000060,15309,0.105,10.5
+NHS Gloucestershire CCG,South West England,2025,E38000062,49721,0.092,9.2
+NHS Great Yarmouth and Waveney CCG,East of England,2025,E38000063,19890,0.108,10.8
+NHS Greater Huddersfield CCG,Yorkshire and the Humber,2025,E38000064,20193,0.096,9.6
+NHS Greater Preston CCG,North West England,2025,E38000065,15350,0.092,9.2
+NHS Greenwich CCG,London,2025,E38000066,21698,0.088,8.8
+NHS Guildford and Waverley CCG,South East England,2025,E38000067,14019,0.076,7.6
+NHS Halton CCG,North West England,2025,E38000068,9775,0.094,9.4
+"NHS Hambleton, Richmondshire and Whitby CCG",Yorkshire and the Humber,2025,E38000069,12544,0.097,9.7
+NHS Hammersmith and Fulham CCG,London,2025,E38000070,13273,0.084,8.4
+NHS Hardwick CCG,East Midlands,2025,E38000071,9320,0.098,9.8
+NHS Haringey CCG,London,2025,E38000072,24463,0.099,9.9
+NHS Harrogate and Rural District CCG,Yorkshire and the Humber,2025,E38000073,12320,0.093,9.3
+NHS Harrow CCG,London,2025,E38000074,25189,0.116,11.6
+NHS Hartlepool and Stockton-On-Tees CCG,North East England,2025,E38000075,21707,0.09,9
+NHS Hastings and Rother CCG,South East England,2025,E38000076,17929,0.11,11
+NHS Havering CCG,London,2025,E38000077,19735,0.089,8.9
+NHS Herefordshire CCG,West Midlands,2025,E38000078,16947,0.103,10.3
+NHS Herts Valleys CCG,East of England,2025,E38000079,42951,0.084,8.4
+"NHS Heywood, Middleton and Rochdale CCG",North West England,2025,E38000080,17922,0.104,10.4
+NHS High Weald Lewes Havens CCG,South East England,2025,E38000081,14321,0.092,9.2
+NHS Hillingdon CCG,London,2025,E38000082,24857,0.093,9.3
+NHS Horsham and Mid Sussex CCG,South East England,2025,E38000083,16756,0.084,8.4
+NHS Hounslow CCG,London,2025,E38000084,25115,0.104,10.4
+NHS Hull CCG,Yorkshire and the Humber,2025,E38000085,18017,0.085,8.5
+NHS Ipswich and East Suffolk CCG,East of England,2025,E38000086,33968,0.099,9.9
+NHS Isle of Wight CCG,South East England,2025,E38000087,13829,0.113,11.3
+NHS Islington CCG,London,2025,E38000088,17204,0.079,7.9
+NHS Kernow CCG,South West England,2025,E38000089,51861,0.105,10.5
+NHS Kingston CCG,London,2025,E38000090,11395,0.071,7.1
+NHS Knowsley CCG,North West England,2025,E38000091,11371,0.096,9.6
+NHS Lambeth CCG,London,2025,E38000092,28216,0.096,9.6
+NHS Lancashire North CCG,North West England,2025,E38000093,12283,0.088,8.8
+NHS Leeds North CCG,Yorkshire and the Humber,2025,E38000094,16332,0.094,9.4
+NHS Leeds South and East CCG,Yorkshire and the Humber,2025,E38000095,17602,0.086,8.6
+NHS Leeds West CCG,Yorkshire and the Humber,2025,E38000096,20844,0.074,7.4
+NHS Leicester City CCG,East Midlands,2025,E38000097,33308,0.115,11.5
+NHS Lewisham CCG,London,2025,E38000098,27293,0.102,10.2
+NHS Lincolnshire East CCG,East Midlands,2025,E38000099,22585,0.11,11
+NHS Lincolnshire West CCG,East Midlands,2025,E38000100,18214,0.089,8.9
+NHS Liverpool CCG,North West England,2025,E38000101,33766,0.083,8.3
+NHS Luton CCG,East of England,2025,E38000102,19584,0.106,10.6
+NHS Mansfield and Ashfield CCG,East Midlands,2025,E38000103,16078,0.096,9.6
+NHS Medway CCG,South East England,2025,E38000104,20749,0.086,8.6
+NHS Merton CCG,London,2025,E38000105,15708,0.087,8.7
+NHS Mid Essex CCG,East of England,2025,E38000106,30314,0.089,8.9
+NHS Milton Keynes CCG,South East England,2025,E38000107,19853,0.084,8.4
+NHS Nene CCG,East of England,2025,E38000108,50479,0.091,9.1
+NHS Newark & Sherwood CCG,East Midlands,2025,E38000109,9900,0.096,9.6
+NHS Newbury and District CCG,South East England,2025,E38000110,7440,0.084,8.4
+NHS Newcastle Gateshead CCG,North East England,2025,E38000212,34681,0.082,8.2
+NHS Newham CCG,London,2025,E38000113,34431,0.115,11.5
+NHS North & West Reading CCG,South East England,2025,E38000114,7369,0.086,8.6
+NHS North Derbyshire CCG,East Midlands,2025,E38000115,22922,0.097,9.7
+NHS North Durham CCG,North East England,2025,E38000116,18596,0.088,8.8
+NHS North East Essex CCG,East of England,2025,E38000117,27802,0.096,9.6
+NHS North East Hampshire and Farnham CCG,South East England,2025,E38000118,13978,0.08,8
+NHS North East Lincolnshire CCG,Yorkshire and the Humber,2025,E38000119,12416,0.095,9.5
+NHS North Hampshire CCG,South East England,2025,E38000120,15780,0.082,8.2
+NHS North Kirklees CCG,Yorkshire and the Humber,2025,E38000121,16664,0.105,10.5
+NHS North Lincolnshire CCG,Yorkshire and the Humber,2025,E38000122,13828,0.096,9.6
+NHS North Manchester CCG,North West England,2025,E38000123,11999,0.079,7.9
+NHS North Norfolk CCG,East of England,2025,E38000124,17004,0.112,11.2
+NHS North Somerset CCG,South West England,2025,E38000125,17661,0.094,9.4
+NHS North Staffordshire CCG,West Midlands,2025,E38000126,17139,0.092,9.2
+NHS North Tyneside CCG,North East England,2025,E38000127,15974,0.091,9.1
+NHS North West Surrey CCG,South East England,2025,E38000128,24714,0.083,8.3
+"NHS North, East, West Devon CCG",South West England,2025,E38000129,73803,0.095,9.5
+NHS Northumberland CCG,North East England,2025,E38000130,27680,0.103,10.3
+NHS Norwich CCG,East of England,2025,E38000131,14394,0.082,8.2
+NHS Nottingham City CCG,East Midlands,2025,E38000132,22192,0.082,8.2
+NHS Nottingham North and East CCG,East Midlands,2025,E38000133,11799,0.09,9
+NHS Nottingham West CCG,East Midlands,2025,E38000134,8601,0.088,8.8
+NHS Oldham CCG,North West England,2025,E38000135,18723,0.1,10
+NHS Oxfordshire CCG,South East England,2025,E38000136,46293,0.08,8
+NHS Portsmouth CCG,South East England,2025,E38000137,13978,0.077,7.7
+NHS Redbridge CCG,London,2025,E38000138,29923,0.113,11.3
+NHS Redditch and Bromsgrove CCG,West Midlands,2025,E38000139,14184,0.093,9.3
+NHS Richmond CCG,London,2025,E38000140,13337,0.076,7.6
+NHS Rotherham CCG,Yorkshire and the Humber,2025,E38000141,21071,0.097,9.7
+NHS Rushcliffe CCG,East Midlands,2025,E38000142,8492,0.084,8.4
+NHS Salford CCG,North West England,2025,E38000143,17483,0.081,8.1
+NHS Sandwell and West Birmingham CCG,West Midlands,2025,E38000144,48395,0.119,11.9
+NHS Scarborough and Ryedale CCG,Yorkshire and the Humber,2025,E38000145,9938,0.107,10.7
+NHS Sheffield CCG,Yorkshire and the Humber,2025,E38000146,41759,0.085,8.5
+NHS Shropshire CCG,West Midlands,2025,E38000147,27446,0.101,10.1
+NHS Slough CCG,South East England,2025,E38000148,13283,0.111,11.1
+NHS Solihull CCG,West Midlands,2025,E38000149,16959,0.095,9.5
+NHS Somerset CCG,South West England,2025,E38000150,48239,0.101,10.1
+NHS South Cheshire CCG,North West England,2025,E38000151,13936,0.092,9.2
+NHS South Devon and Torbay CCG,South West England,2025,E38000152,26826,0.109,10.9
+NHS South East Staffordshire and Seisdon Peninsula CCG,West Midlands,2025,E38000153,18216,0.094,9.4
+NHS South Eastern Hampshire CCG,South East England,2025,E38000154,17246,0.094,9.4
+NHS South Gloucestershire CCG,South West England,2025,E38000155,19631,0.081,8.1
+NHS South Kent Coast CCG,South East England,2025,E38000156,18913,0.104,10.4
+NHS South Lincolnshire CCG,East Midlands,2025,E38000157,12435,0.096,9.6
+NHS South Manchester CCG,North West England,2025,E38000158,11105,0.077,7.7
+NHS South Norfolk CCG,East of England,2025,E38000159,21200,0.097,9.7
+NHS South Reading CCG,South East England,2025,E38000160,6961,0.075,7.5
+NHS South Sefton CCG,North West England,2025,E38000161,12850,0.098,9.8
+NHS South Tees CCG,North East England,2025,E38000162,21554,0.096,9.6
+NHS South Tyneside CCG,North East England,2025,E38000163,12400,0.099,9.9
+NHS South Warwickshire CCG,West Midlands,2025,E38000164,20590,0.09,9
+NHS South West Lincolnshire CCG,East Midlands,2025,E38000165,10493,0.095,9.5
+NHS South Worcestershire CCG,West Midlands,2025,E38000166,25165,0.096,9.6
+NHS Southampton CCG,South East England,2025,E38000167,16234,0.075,7.5
+NHS Southend CCG,East of England,2025,E38000168,14730,0.094,9.4
+NHS Southern Derbyshire CCG,East Midlands,2025,E38000169,42390,0.094,9.4
+NHS Southport and Formby CCG,North West England,2025,E38000170,10279,0.105,10.5
+NHS Southwark CCG,London,2025,E38000171,26813,0.094,9.4
+NHS St Helens CCG,North West England,2025,E38000172,14533,0.097,9.7
+NHS Stafford and Surrounds CCG,West Midlands,2025,E38000173,12221,0.092,9.2
+NHS Stockport CCG,North West England,2025,E38000174,22564,0.092,9.2
+NHS Stoke on Trent CCG,West Midlands,2025,E38000175,20279,0.094,9.4
+NHS Sunderland CCG,North East England,2025,E38000176,21849,0.094,9.4
+NHS Surrey Downs CCG,South East England,2025,E38000177,21426,0.085,8.5
+NHS Surrey Heath CCG,South East England,2025,E38000178,6789,0.083,8.3
+NHS Sutton CCG,London,2025,E38000179,14985,0.084,8.4
+NHS Swale CCG,South East England,2025,E38000180,9279,0.093,9.3
+NHS Swindon CCG,South West England,2025,E38000181,16231,0.084,8.4
+NHS Tameside and Glossop CCG,North West England,2025,E38000182,20627,0.097,9.7
+NHS Telford and Wrekin CCG,West Midlands,2025,E38000183,13162,0.093,9.3
+NHS Thanet CCG,South East England,2025,E38000184,12966,0.104,10.4
+NHS Thurrock CCG,East of England,2025,E38000185,12060,0.084,8.4
+NHS Tower Hamlets CCG,London,2025,E38000186,26318,0.092,9.2
+NHS Trafford CCG,North West England,2025,E38000187,17493,0.087,8.7
+NHS Vale of York CCG,Yorkshire and the Humber,2025,E38000188,25415,0.081,8.1
+NHS Vale Royal CCG,North West England,2025,E38000189,7779,0.092,9.2
+NHS Wakefield CCG,Yorkshire and the Humber,2025,E38000190,27011,0.095,9.5
+NHS Walsall CCG,West Midlands,2025,E38000191,24201,0.105,10.5
+NHS Waltham Forest CCG,London,2025,E38000192,26120,0.11,11
+NHS Wandsworth CCG,London,2025,E38000193,21592,0.077,7.7
+NHS Warrington CCG,North West England,2025,E38000194,15449,0.086,8.6
+NHS Warwickshire North CCG,West Midlands,2025,E38000195,15514,0.097,9.7
+NHS West Cheshire CCG,North West England,2025,E38000196,18047,0.092,9.2
+NHS West Essex CCG,East of England,2025,E38000197,23489,0.088,8.8
+NHS West Hampshire CCG,South East England,2025,E38000198,44179,0.09,9
+NHS West Kent CCG,South East England,2025,E38000199,35287,0.085,8.5
+NHS West Lancashire CCG,North West England,2025,E38000200,8719,0.093,9.3
+NHS West Leicestershire CCG,East Midlands,2025,E38000201,29831,0.087,8.7
+NHS West London CCG,London,2025,E38000202,18587,0.094,9.4
+NHS West Norfolk CCG,East of England,2025,E38000203,16656,0.109,10.9
+NHS West Suffolk CCG,East of England,2025,E38000204,18714,0.095,9.5
+NHS Wigan Borough CCG,North West England,2025,E38000205,25033,0.092,9.2
+NHS Wiltshire CCG,South West England,2025,E38000206,38303,0.091,9.1
+"NHS Windsor, Ascot and Maidenhead CCG",South East England,2025,E38000207,10144,0.083,8.3
+NHS Wirral CCG,North West England,2025,E38000208,25855,0.097,9.7
+NHS Wokingham CCG,South East England,2025,E38000209,10946,0.08,8
+NHS Wolverhampton CCG,West Midlands,2025,E38000210,24407,0.115,11.5
+NHS Wyre Forest CCG,West Midlands,2025,E38000211,8838,0.104,10.4
+"NHS Airedale, Wharfedale and Craven CCG",Yorkshire and the Humber,2030,E38000001,14592,0.104,10.4
+NHS Ashford CCG,South East England,2030,E38000002,11027,0.094,9.4
+NHS Aylesbury Vale CCG,South East England,2030,E38000003,16671,0.086,8.6
+NHS Barking and Dagenham CCG,London,2030,E38000004,18216,0.097,9.7
+NHS Barnet CCG,London,2030,E38000005,35342,0.096,9.6
+NHS Barnsley CCG,Yorkshire and the Humber,2030,E38000006,21124,0.098,9.8
+NHS Basildon and Brentwood CCG,East of England,2030,E38000007,20926,0.09,9
+NHS Bassetlaw CCG,Yorkshire and the Humber,2030,E38000008,10212,0.103,10.3
+NHS Bath and North East Somerset CCG,South West England,2030,E38000009,13238,0.081,8.1
+NHS Bedfordshire CCG,East of England,2030,E38000010,38192,0.09,9
+NHS Bexley CCG,London,2030,E38000011,19455,0.087,8.7
+NHS Birmingham CrossCity CCG,West Midlands,2030,E38000012,66578,0.104,10.4
+NHS Birmingham South and Central CCG,West Midlands,2030,E38000013,18554,0.104,10.4
+NHS Blackburn with Darwen CCG,North West England,2030,E38000014,12379,0.109,10.9
+NHS Blackpool CCG,North West England,2030,E38000015,11854,0.104,10.4
+NHS Bolton CCG,North West England,2030,E38000016,24013,0.101,10.1
+NHS Bracknell and Ascot CCG,South East England,2030,E38000017,9705,0.079,7.9
+NHS Bradford City CCG,Yorkshire and the Humber,2030,E38000018,7624,0.12,12
+NHS Bradford Districts CCG,Yorkshire and the Humber,2030,E38000019,31007,0.11,11
+NHS Brent CCG,London,2030,E38000020,39350,0.131,13.1
+NHS Brighton and Hove CCG,South East England,2030,E38000021,20173,0.076,7.6
+NHS Bristol CCG,South West England,2030,E38000022,31471,0.076,7.6
+NHS Bromley CCG,London,2030,E38000023,26927,0.088,8.8
+NHS Bury CCG,North West England,2030,E38000024,15388,0.095,9.5
+NHS Calderdale CCG,Yorkshire and the Humber,2030,E38000025,18424,0.101,10.1
+NHS Cambridgeshire and Peterborough CCG,East of England,2030,E38000026,70954,0.088,8.8
+NHS Camden CCG,London,2030,E38000027,21457,0.088,8.8
+NHS Cannock Chase CCG,West Midlands,2030,E38000028,11206,0.096,9.6
+NHS Canterbury and Coastal CCG,South East England,2030,E38000029,17956,0.091,9.1
+NHS Castle Point and Rochford CCG,East of England,2030,E38000030,15043,0.097,9.7
+NHS Central London (Westminster) CCG,London,2030,E38000031,16106,0.093,9.3
+NHS Central Manchester CCG,North West England,2030,E38000032,14337,0.086,8.6
+NHS Chiltern CCG,South East England,2030,E38000033,26116,0.092,9.2
+NHS Chorley and South Ribble CCG,North West England,2030,E38000034,14162,0.092,9.2
+NHS City and Hackney CCG,London,2030,E38000035,27902,0.104,10.4
+NHS Coastal West Sussex CCG,South East England,2030,E38000036,48789,0.105,10.5
+NHS Corby CCG,East Midlands,2030,E38000037,5531,0.086,8.6
+NHS Coventry and Rugby CCG,West Midlands,2030,E38000038,37911,0.09,9
+NHS Crawley CCG,South East England,2030,E38000039,8800,0.087,8.7
+NHS Croydon CCG,London,2030,E38000040,40489,0.116,11.6
+NHS Cumbria CCG,North West England,2030,E38000041,44358,0.105,10.5
+NHS Darlington CCG,North East England,2030,E38000042,8554,0.097,9.7
+"NHS Dartford, Gravesham and Swanley CCG",South East England,2030,E38000043,21964,0.092,9.2
+NHS Doncaster CCG,Yorkshire and the Humber,2030,E38000044,25389,0.099,9.9
+NHS Dorset CCG,South West England,2030,E38000045,70919,0.1,10
+NHS Dudley CCG,West Midlands,2030,E38000046,26957,0.101,10.1
+"NHS Durham Dales, Easington and Sedgefield CCG",North East England,2030,E38000047,24635,0.103,10.3
+NHS Ealing CCG,London,2030,E38000048,37349,0.122,12.2
+NHS East and North Hertfordshire CCG,East of England,2030,E38000049,44078,0.085,8.5
+NHS East Lancashire CCG,North West England,2030,E38000050,32238,0.105,10.5
+NHS East Leicestershire and Rutland CCG,East Midlands,2030,E38000051,28388,0.097,9.7
+NHS East Riding of Yorkshire CCG,Yorkshire and the Humber,2030,E38000052,28782,0.102,10.2
+NHS East Staffordshire CCG,West Midlands,2030,E38000053,10747,0.097,9.7
+NHS East Surrey CCG,South East England,2030,E38000054,14364,0.085,8.5
+"NHS Eastbourne, Hailsham and Seaford CCG",South East England,2030,E38000055,19781,0.109,10.9
+NHS Eastern Cheshire CCG,North West England,2030,E38000056,17302,0.099,9.9
+NHS Enfield CCG,London,2030,E38000057,31862,0.104,10.4
+NHS Erewash CCG,East Midlands,2030,E38000058,7984,0.093,9.3
+NHS Fareham and Gosport CCG,South East England,2030,E38000059,16546,0.093,9.3
+NHS Fylde & Wyre CCG,North West England,2030,E38000060,16076,0.108,10.8
+NHS Gloucestershire CCG,South West England,2030,E38000062,53181,0.094,9.4
+NHS Great Yarmouth and Waveney CCG,East of England,2030,E38000063,20905,0.111,11.1
+NHS Greater Huddersfield CCG,Yorkshire and the Humber,2030,E38000064,21345,0.099,9.9
+NHS Greater Preston CCG,North West England,2030,E38000065,15920,0.094,9.4
+NHS Greenwich CCG,London,2030,E38000066,23899,0.092,9.2
+NHS Guildford and Waverley CCG,South East England,2030,E38000067,14882,0.078,7.8
+NHS Halton CCG,North West England,2030,E38000068,10292,0.097,9.7
+"NHS Hambleton, Richmondshire and Whitby CCG",Yorkshire and the Humber,2030,E38000069,13128,0.101,10.1
+NHS Hammersmith and Fulham CCG,London,2030,E38000070,14193,0.087,8.7
+NHS Hardwick CCG,East Midlands,2030,E38000071,9782,0.101,10.1
+NHS Haringey CCG,London,2030,E38000072,26934,0.104,10.4
+NHS Harrogate and Rural District CCG,Yorkshire and the Humber,2030,E38000073,12992,0.097,9.7
+NHS Harrow CCG,London,2030,E38000074,27175,0.119,11.9
+NHS Hartlepool and Stockton-On-Tees CCG,North East England,2030,E38000075,22853,0.093,9.3
+NHS Hastings and Rother CCG,South East England,2030,E38000076,19284,0.114,11.4
+NHS Havering CCG,London,2030,E38000077,21237,0.09,9
+NHS Herefordshire CCG,West Midlands,2030,E38000078,17944,0.106,10.6
+NHS Herts Valleys CCG,East of England,2030,E38000079,46327,0.086,8.6
+"NHS Heywood, Middleton and Rochdale CCG",North West England,2030,E38000080,18807,0.107,10.7
+NHS High Weald Lewes Havens CCG,South East England,2030,E38000081,15446,0.095,9.5
+NHS Hillingdon CCG,London,2030,E38000082,27148,0.095,9.5
+NHS Horsham and Mid Sussex CCG,South East England,2030,E38000083,17967,0.086,8.6
+NHS Hounslow CCG,London,2030,E38000084,27576,0.108,10.8
+NHS Hull CCG,Yorkshire and the Humber,2030,E38000085,18830,0.088,8.8
+NHS Ipswich and East Suffolk CCG,East of England,2030,E38000086,36232,0.102,10.2
+NHS Isle of Wight CCG,South East England,2030,E38000087,14686,0.116,11.6
+NHS Islington CCG,London,2030,E38000088,18891,0.083,8.3
+NHS Kernow CCG,South West England,2030,E38000089,55038,0.108,10.8
+NHS Kingston CCG,London,2030,E38000090,12459,0.074,7.4
+NHS Knowsley CCG,North West England,2030,E38000091,11859,0.099,9.9
+NHS Lambeth CCG,London,2030,E38000092,30767,0.101,10.1
+NHS Lancashire North CCG,North West England,2030,E38000093,12813,0.09,9
+NHS Leeds North CCG,Yorkshire and the Humber,2030,E38000094,17270,0.096,9.6
+NHS Leeds South and East CCG,Yorkshire and the Humber,2030,E38000095,18474,0.087,8.7
+NHS Leeds West CCG,Yorkshire and the Humber,2030,E38000096,21964,0.075,7.5
+NHS Leicester City CCG,East Midlands,2030,E38000097,35607,0.117,11.7
+NHS Lewisham CCG,London,2030,E38000098,30070,0.107,10.7
+NHS Lincolnshire East CCG,East Midlands,2030,E38000099,23792,0.113,11.3
+NHS Lincolnshire West CCG,East Midlands,2030,E38000100,19311,0.092,9.2
+NHS Liverpool CCG,North West England,2030,E38000101,35537,0.085,8.5
+NHS Luton CCG,East of England,2030,E38000102,21078,0.109,10.9
+NHS Mansfield and Ashfield CCG,East Midlands,2030,E38000103,17085,0.099,9.9
+NHS Medway CCG,South East England,2030,E38000104,22353,0.088,8.8
+NHS Merton CCG,London,2030,E38000105,17063,0.09,9
+NHS Mid Essex CCG,East of England,2030,E38000106,32428,0.093,9.3
+NHS Milton Keynes CCG,South East England,2030,E38000107,21864,0.088,8.8
+NHS Nene CCG,East of England,2030,E38000108,54426,0.094,9.4
+NHS Newark & Sherwood CCG,East Midlands,2030,E38000109,10584,0.099,9.9
+NHS Newbury and District CCG,South East England,2030,E38000110,7945,0.088,8.8
+NHS Newcastle Gateshead CCG,North East England,2030,E38000212,36181,0.084,8.4
+NHS Newham CCG,London,2030,E38000113,38411,0.121,12.1
+NHS North & West Reading CCG,South East England,2030,E38000114,7849,0.089,8.9
+NHS North Derbyshire CCG,East Midlands,2030,E38000115,24071,0.1,10
+NHS North Durham CCG,North East England,2030,E38000116,19511,0.09,9
+NHS North East Essex CCG,East of England,2030,E38000117,29778,0.099,9.9
+NHS North East Hampshire and Farnham CCG,South East England,2030,E38000118,14856,0.083,8.3
+NHS North East Lincolnshire CCG,Yorkshire and the Humber,2030,E38000119,12975,0.098,9.8
+NHS North Hampshire CCG,South East England,2030,E38000120,16959,0.085,8.5
+NHS North Kirklees CCG,Yorkshire and the Humber,2030,E38000121,17559,0.107,10.7
+NHS North Lincolnshire CCG,Yorkshire and the Humber,2030,E38000122,14487,0.099,9.9
+NHS North Manchester CCG,North West England,2030,E38000123,12869,0.081,8.1
+NHS North Norfolk CCG,East of England,2030,E38000124,17984,0.114,11.4
+NHS North Somerset CCG,South West England,2030,E38000125,18981,0.097,9.7
+NHS North Staffordshire CCG,West Midlands,2030,E38000126,17885,0.094,9.4
+NHS North Tyneside CCG,North East England,2030,E38000127,16912,0.094,9.4
+NHS North West Surrey CCG,South East England,2030,E38000128,26374,0.086,8.6
+"NHS North, East, West Devon CCG",South West England,2030,E38000129,78019,0.097,9.7
+NHS Northumberland CCG,North East England,2030,E38000130,28949,0.106,10.6
+NHS Norwich CCG,East of England,2030,E38000131,15213,0.084,8.4
+NHS Nottingham City CCG,East Midlands,2030,E38000132,23498,0.084,8.4
+NHS Nottingham North and East CCG,East Midlands,2030,E38000133,12486,0.093,9.3
+NHS Nottingham West CCG,East Midlands,2030,E38000134,9011,0.089,8.9
+NHS Oldham CCG,North West England,2030,E38000135,19695,0.103,10.3
+NHS Oxfordshire CCG,South East England,2030,E38000136,49568,0.083,8.3
+NHS Portsmouth CCG,South East England,2030,E38000137,14851,0.079,7.9
+NHS Redbridge CCG,London,2030,E38000138,32765,0.116,11.6
+NHS Redditch and Bromsgrove CCG,West Midlands,2030,E38000139,14948,0.096,9.6
+NHS Richmond CCG,London,2030,E38000140,14591,0.079,7.9
+NHS Rotherham CCG,Yorkshire and the Humber,2030,E38000141,21985,0.099,9.9
+NHS Rushcliffe CCG,East Midlands,2030,E38000142,9038,0.086,8.6
+NHS Salford CCG,North West England,2030,E38000143,18736,0.084,8.4
+NHS Sandwell and West Birmingham CCG,West Midlands,2030,E38000144,51132,0.121,12.1
+NHS Scarborough and Ryedale CCG,Yorkshire and the Humber,2030,E38000145,10380,0.11,11
+NHS Sheffield CCG,Yorkshire and the Humber,2030,E38000146,43853,0.086,8.6
+NHS Shropshire CCG,West Midlands,2030,E38000147,29173,0.105,10.5
+NHS Slough CCG,South East England,2030,E38000148,14454,0.115,11.5
+NHS Solihull CCG,West Midlands,2030,E38000149,17744,0.096,9.6
+NHS Somerset CCG,South West England,2030,E38000150,51547,0.104,10.4
+NHS South Cheshire CCG,North West England,2030,E38000151,14647,0.095,9.5
+NHS South Devon and Torbay CCG,South West England,2030,E38000152,28416,0.112,11.2
+NHS South East Staffordshire and Seisdon Peninsula CCG,West Midlands,2030,E38000153,19072,0.097,9.7
+NHS South Eastern Hampshire CCG,South East England,2030,E38000154,18339,0.098,9.8
+NHS South Gloucestershire CCG,South West England,2030,E38000155,20966,0.083,8.3
+NHS South Kent Coast CCG,South East England,2030,E38000156,20356,0.108,10.8
+NHS South Lincolnshire CCG,East Midlands,2030,E38000157,13277,0.099,9.9
+NHS South Manchester CCG,North West England,2030,E38000158,11934,0.079,7.9
+NHS South Norfolk CCG,East of England,2030,E38000159,22756,0.1,10
+NHS South Reading CCG,South East England,2030,E38000160,7360,0.077,7.7
+NHS South Sefton CCG,North West England,2030,E38000161,13332,0.101,10.1
+NHS South Tees CCG,North East England,2030,E38000162,22375,0.099,9.9
+NHS South Tyneside CCG,North East England,2030,E38000163,12986,0.102,10.2
+NHS South Warwickshire CCG,West Midlands,2030,E38000164,21731,0.093,9.3
+NHS South West Lincolnshire CCG,East Midlands,2030,E38000165,11222,0.099,9.9
+NHS South Worcestershire CCG,West Midlands,2030,E38000166,26639,0.099,9.9
+NHS Southampton CCG,South East England,2030,E38000167,17254,0.077,7.7
+NHS Southend CCG,East of England,2030,E38000168,15852,0.097,9.7
+NHS Southern Derbyshire CCG,East Midlands,2030,E38000169,44980,0.096,9.6
+NHS Southport and Formby CCG,North West England,2030,E38000170,10767,0.109,10.9
+NHS Southwark CCG,London,2030,E38000171,29281,0.098,9.8
+NHS St Helens CCG,North West England,2030,E38000172,15200,0.1,10
+NHS Stafford and Surrounds CCG,West Midlands,2030,E38000173,12848,0.095,9.5
+NHS Stockport CCG,North West England,2030,E38000174,23753,0.095,9.5
+NHS Stoke on Trent CCG,West Midlands,2030,E38000175,21160,0.097,9.7
+NHS Sunderland CCG,North East England,2030,E38000176,22708,0.096,9.6
+NHS Surrey Downs CCG,South East England,2030,E38000177,23031,0.087,8.7
+NHS Surrey Heath CCG,South East England,2030,E38000178,7237,0.086,8.6
+NHS Sutton CCG,London,2030,E38000179,16338,0.087,8.7
+NHS Swale CCG,South East England,2030,E38000180,10039,0.096,9.6
+NHS Swindon CCG,South West England,2030,E38000181,17610,0.088,8.8
+NHS Tameside and Glossop CCG,North West England,2030,E38000182,21742,0.1,10
+NHS Telford and Wrekin CCG,West Midlands,2030,E38000183,13974,0.096,9.6
+NHS Thanet CCG,South East England,2030,E38000184,14089,0.107,10.7
+NHS Thurrock CCG,East of England,2030,E38000185,13138,0.087,8.7
+NHS Tower Hamlets CCG,London,2030,E38000186,29911,0.097,9.7
+NHS Trafford CCG,North West England,2030,E38000187,18616,0.089,8.9
+NHS Vale of York CCG,Yorkshire and the Humber,2030,E38000188,26963,0.083,8.3
+NHS Vale Royal CCG,North West England,2030,E38000189,8125,0.095,9.5
+NHS Wakefield CCG,Yorkshire and the Humber,2030,E38000190,28449,0.098,9.8
+NHS Walsall CCG,West Midlands,2030,E38000191,25298,0.107,10.7
+NHS Waltham Forest CCG,London,2030,E38000192,28665,0.115,11.5
+NHS Wandsworth CCG,London,2030,E38000193,23331,0.08,8
+NHS Warrington CCG,North West England,2030,E38000194,16456,0.089,8.9
+NHS Warwickshire North CCG,West Midlands,2030,E38000195,16312,0.1,10
+NHS West Cheshire CCG,North West England,2030,E38000196,18933,0.095,9.5
+NHS West Essex CCG,East of England,2030,E38000197,25368,0.091,9.1
+NHS West Hampshire CCG,South East England,2030,E38000198,47146,0.093,9.3
+NHS West Kent CCG,South East England,2030,E38000199,37917,0.087,8.7
+NHS West Lancashire CCG,North West England,2030,E38000200,9028,0.095,9.5
+NHS West Leicestershire CCG,East Midlands,2030,E38000201,31902,0.089,8.9
+NHS West London CCG,London,2030,E38000202,19763,0.097,9.7
+NHS West Norfolk CCG,East of England,2030,E38000203,17662,0.112,11.2
+NHS West Suffolk CCG,East of England,2030,E38000204,20028,0.098,9.8
+NHS Wigan Borough CCG,North West England,2030,E38000205,26335,0.094,9.4
+NHS Wiltshire CCG,South West England,2030,E38000206,40917,0.095,9.5
+"NHS Windsor, Ascot and Maidenhead CCG",South East England,2030,E38000207,10850,0.086,8.6
+NHS Wirral CCG,North West England,2030,E38000208,26999,0.1,10
+NHS Wokingham CCG,South East England,2030,E38000209,11681,0.082,8.2
+NHS Wolverhampton CCG,West Midlands,2030,E38000210,25547,0.117,11.7
+NHS Wyre Forest CCG,West Midlands,2030,E38000211,9201,0.107,10.7
+"NHS Airedale, Wharfedale and Craven CCG",Yorkshire and the Humber,2035,E38000001,15328,0.107,10.7
+NHS Ashford CCG,South East England,2035,E38000002,11851,0.097,9.7
+NHS Aylesbury Vale CCG,South East England,2035,E38000003,17947,0.089,8.9
+NHS Barking and Dagenham CCG,London,2035,E38000004,19981,0.1,10
+NHS Barnet CCG,London,2035,E38000005,38688,0.1,10
+NHS Barnsley CCG,Yorkshire and the Humber,2035,E38000006,22279,0.101,10.1
+NHS Basildon and Brentwood CCG,East of England,2035,E38000007,22306,0.092,9.2
+NHS Bassetlaw CCG,Yorkshire and the Humber,2035,E38000008,10665,0.105,10.5
+NHS Bath and North East Somerset CCG,South West England,2035,E38000009,13836,0.082,8.2
+NHS Bedfordshire CCG,East of England,2035,E38000010,41193,0.093,9.3
+NHS Bexley CCG,London,2035,E38000011,20930,0.089,8.9
+NHS Birmingham CrossCity CCG,West Midlands,2035,E38000012,70291,0.106,10.6
+NHS Birmingham South and Central CCG,West Midlands,2035,E38000013,19604,0.107,10.7
+NHS Blackburn with Darwen CCG,North West England,2035,E38000014,12655,0.111,11.1
+NHS Blackpool CCG,North West England,2035,E38000015,12178,0.106,10.6
+NHS Bolton CCG,North West England,2035,E38000016,24934,0.103,10.3
+NHS Bracknell and Ascot CCG,South East England,2035,E38000017,10420,0.081,8.1
+NHS Bradford City CCG,Yorkshire and the Humber,2035,E38000018,7845,0.122,12.2
+NHS Bradford Districts CCG,Yorkshire and the Humber,2035,E38000019,32437,0.113,11.3
+NHS Brent CCG,London,2035,E38000020,42558,0.136,13.6
+NHS Brighton and Hove CCG,South East England,2035,E38000021,21462,0.078,7.8
+NHS Bristol CCG,South West England,2035,E38000022,33284,0.078,7.8
+NHS Bromley CCG,London,2035,E38000023,29009,0.09,9
+NHS Bury CCG,North West England,2035,E38000024,16061,0.097,9.7
+NHS Calderdale CCG,Yorkshire and the Humber,2035,E38000025,19351,0.104,10.4
+NHS Cambridgeshire and Peterborough CCG,East of England,2035,E38000026,75655,0.091,9.1
+NHS Camden CCG,London,2035,E38000027,23226,0.091,9.1
+NHS Cannock Chase CCG,West Midlands,2035,E38000028,11681,0.099,9.9
+NHS Canterbury and Coastal CCG,South East England,2035,E38000029,19276,0.094,9.4
+NHS Castle Point and Rochford CCG,East of England,2035,E38000030,15735,0.098,9.8
+NHS Central London (Westminster) CCG,London,2035,E38000031,17479,0.096,9.6
+NHS Central Manchester CCG,North West England,2035,E38000032,15305,0.089,8.9
+NHS Chiltern CCG,South East England,2035,E38000033,27406,0.094,9.4
+NHS Chorley and South Ribble CCG,North West England,2035,E38000034,14809,0.094,9.4
+NHS City and Hackney CCG,London,2035,E38000035,30758,0.109,10.9
+NHS Coastal West Sussex CCG,South East England,2035,E38000036,52226,0.108,10.8
+NHS Corby CCG,East Midlands,2035,E38000037,6014,0.089,8.9
+NHS Coventry and Rugby CCG,West Midlands,2035,E38000038,40430,0.092,9.2
+NHS Crawley CCG,South East England,2035,E38000039,9497,0.09,9
+NHS Croydon CCG,London,2035,E38000040,43671,0.119,11.9
+NHS Cumbria CCG,North West England,2035,E38000041,45299,0.108,10.8
+NHS Darlington CCG,North East England,2035,E38000042,8862,0.1,10
+"NHS Dartford, Gravesham and Swanley CCG",South East England,2035,E38000043,23580,0.094,9.4
+NHS Doncaster CCG,Yorkshire and the Humber,2035,E38000044,26327,0.102,10.2
+NHS Dorset CCG,South West England,2035,E38000045,74982,0.102,10.2
+NHS Dudley CCG,West Midlands,2035,E38000046,27752,0.102,10.2
+"NHS Durham Dales, Easington and Sedgefield CCG",North East England,2035,E38000047,25425,0.104,10.4
+NHS Ealing CCG,London,2035,E38000048,39930,0.126,12.6
+NHS East and North Hertfordshire CCG,East of England,2035,E38000049,47367,0.088,8.8
+NHS East Lancashire CCG,North West England,2035,E38000050,33243,0.107,10.7
+NHS East Leicestershire and Rutland CCG,East Midlands,2035,E38000051,29820,0.099,9.9
+NHS East Riding of Yorkshire CCG,Yorkshire and the Humber,2035,E38000052,29811,0.105,10.5
+NHS East Staffordshire CCG,West Midlands,2035,E38000053,11270,0.099,9.9
+NHS East Surrey CCG,South East England,2035,E38000054,15398,0.088,8.8
+"NHS Eastbourne, Hailsham and Seaford CCG",South East England,2035,E38000055,21277,0.113,11.3
+NHS Eastern Cheshire CCG,North West England,2035,E38000056,18080,0.101,10.1
+NHS Enfield CCG,London,2035,E38000057,34831,0.108,10.8
+NHS Erewash CCG,East Midlands,2035,E38000058,8341,0.095,9.5
+NHS Fareham and Gosport CCG,South East England,2035,E38000059,17452,0.095,9.5
+NHS Fylde & Wyre CCG,North West England,2035,E38000060,16771,0.11,11
+NHS Gloucestershire CCG,South West England,2035,E38000062,56273,0.097,9.7
+NHS Great Yarmouth and Waveney CCG,East of England,2035,E38000063,21808,0.113,11.3
+NHS Greater Huddersfield CCG,Yorkshire and the Humber,2035,E38000064,22432,0.101,10.1
+NHS Greater Preston CCG,North West England,2035,E38000065,16458,0.096,9.6
+NHS Greenwich CCG,London,2035,E38000066,26039,0.095,9.5
+NHS Guildford and Waverley CCG,South East England,2035,E38000067,15709,0.08,8
+NHS Halton CCG,North West England,2035,E38000068,10671,0.1,10
+"NHS Hambleton, Richmondshire and Whitby CCG",Yorkshire and the Humber,2035,E38000069,13454,0.103,10.3
+NHS Hammersmith and Fulham CCG,London,2035,E38000070,15108,0.09,9
+NHS Hardwick CCG,East Midlands,2035,E38000071,10122,0.104,10.4
+NHS Haringey CCG,London,2035,E38000072,29398,0.109,10.9
+NHS Harrogate and Rural District CCG,Yorkshire and the Humber,2035,E38000073,13506,0.1,10
+NHS Harrow CCG,London,2035,E38000074,29146,0.123,12.3
+NHS Hartlepool and Stockton-On-Tees CCG,North East England,2035,E38000075,23894,0.095,9.5
+NHS Hastings and Rother CCG,South East England,2035,E38000076,20537,0.117,11.7
+NHS Havering CCG,London,2035,E38000077,22860,0.092,9.2
+NHS Herefordshire CCG,West Midlands,2035,E38000078,18740,0.108,10.8
+NHS Herts Valleys CCG,East of England,2035,E38000079,49681,0.088,8.8
+"NHS Heywood, Middleton and Rochdale CCG",North West England,2035,E38000080,19609,0.109,10.9
+NHS High Weald Lewes Havens CCG,South East England,2035,E38000081,16422,0.098,9.8
+NHS Hillingdon CCG,London,2035,E38000082,29303,0.098,9.8
+NHS Horsham and Mid Sussex CCG,South East England,2035,E38000083,19140,0.089,8.9
+NHS Hounslow CCG,London,2035,E38000084,29899,0.112,11.2
+NHS Hull CCG,Yorkshire and the Humber,2035,E38000085,19482,0.09,9
+NHS Ipswich and East Suffolk CCG,East of England,2035,E38000086,38130,0.105,10.5
+NHS Isle of Wight CCG,South East England,2035,E38000087,15415,0.119,11.9
+NHS Islington CCG,London,2035,E38000088,20653,0.086,8.6
+NHS Kernow CCG,South West England,2035,E38000089,57653,0.11,11
+NHS Kingston CCG,London,2035,E38000090,13458,0.076,7.6
+NHS Knowsley CCG,North West England,2035,E38000091,12285,0.101,10.1
+NHS Lambeth CCG,London,2035,E38000092,33302,0.105,10.5
+NHS Lancashire North CCG,North West England,2035,E38000093,13324,0.092,9.2
+NHS Leeds North CCG,Yorkshire and the Humber,2035,E38000094,18084,0.098,9.8
+NHS Leeds South and East CCG,Yorkshire and the Humber,2035,E38000095,19316,0.089,8.9
+NHS Leeds West CCG,Yorkshire and the Humber,2035,E38000096,22934,0.077,7.7
+NHS Leicester City CCG,East Midlands,2035,E38000097,37634,0.12,12
+NHS Lewisham CCG,London,2035,E38000098,32833,0.111,11.1
+NHS Lincolnshire East CCG,East Midlands,2035,E38000099,24757,0.115,11.5
+NHS Lincolnshire West CCG,East Midlands,2035,E38000100,20274,0.094,9.4
+NHS Liverpool CCG,North West England,2035,E38000101,37161,0.087,8.7
+NHS Luton CCG,East of England,2035,E38000102,22614,0.111,11.1
+NHS Mansfield and Ashfield CCG,East Midlands,2035,E38000103,17898,0.102,10.2
+NHS Medway CCG,South East England,2035,E38000104,23893,0.09,9
+NHS Merton CCG,London,2035,E38000105,18360,0.093,9.3
+NHS Mid Essex CCG,East of England,2035,E38000106,34350,0.095,9.5
+NHS Milton Keynes CCG,South East England,2035,E38000107,23743,0.091,9.1
+NHS Nene CCG,East of England,2035,E38000108,57864,0.097,9.7
+NHS Newark & Sherwood CCG,East Midlands,2035,E38000109,11118,0.101,10.1
+NHS Newbury and District CCG,South East England,2035,E38000110,8357,0.091,9.1
+NHS Newcastle Gateshead CCG,North East England,2035,E38000212,37892,0.086,8.6
+NHS Newham CCG,London,2035,E38000113,42038,0.127,12.7
+NHS North & West Reading CCG,South East England,2035,E38000114,8259,0.092,9.2
+NHS North Derbyshire CCG,East Midlands,2035,E38000115,24992,0.103,10.3
+NHS North Durham CCG,North East England,2035,E38000116,20230,0.092,9.2
+NHS North East Essex CCG,East of England,2035,E38000117,31644,0.101,10.1
+NHS North East Hampshire and Farnham CCG,South East England,2035,E38000118,15601,0.085,8.5
+NHS North East Lincolnshire CCG,Yorkshire and the Humber,2035,E38000119,13440,0.1,10
+NHS North Hampshire CCG,South East England,2035,E38000120,17988,0.088,8.8
+NHS North Kirklees CCG,Yorkshire and the Humber,2035,E38000121,18346,0.109,10.9
+NHS North Lincolnshire CCG,Yorkshire and the Humber,2035,E38000122,15088,0.101,10.1
+NHS North Manchester CCG,North West England,2035,E38000123,13792,0.084,8.4
+NHS North Norfolk CCG,East of England,2035,E38000124,18844,0.117,11.7
+NHS North Somerset CCG,South West England,2035,E38000125,20158,0.099,9.9
+NHS North Staffordshire CCG,West Midlands,2035,E38000126,18451,0.096,9.6
+NHS North Tyneside CCG,North East England,2035,E38000127,17768,0.096,9.6
+NHS North West Surrey CCG,South East England,2035,E38000128,28019,0.088,8.8
+"NHS North, East, West Devon CCG",South West England,2035,E38000129,81609,0.099,9.9
+NHS Northumberland CCG,North East England,2035,E38000130,30015,0.11,11
+NHS Norwich CCG,East of England,2035,E38000131,16003,0.085,8.5
+NHS Nottingham City CCG,East Midlands,2035,E38000132,24773,0.086,8.6
+NHS Nottingham North and East CCG,East Midlands,2035,E38000133,13025,0.094,9.4
+NHS Nottingham West CCG,East Midlands,2035,E38000134,9320,0.09,9
+NHS Oldham CCG,North West England,2035,E38000135,20549,0.105,10.5
+NHS Oxfordshire CCG,South East England,2035,E38000136,52419,0.085,8.5
+NHS Portsmouth CCG,South East England,2035,E38000137,15647,0.081,8.1
+NHS Redbridge CCG,London,2035,E38000138,35736,0.119,11.9
+NHS Redditch and Bromsgrove CCG,West Midlands,2035,E38000139,15552,0.098,9.8
+NHS Richmond CCG,London,2035,E38000140,15720,0.081,8.1
+NHS Rotherham CCG,Yorkshire and the Humber,2035,E38000141,22805,0.101,10.1
+NHS Rushcliffe CCG,East Midlands,2035,E38000142,9538,0.088,8.8
+NHS Salford CCG,North West England,2035,E38000143,20032,0.086,8.6
+NHS Sandwell and West Birmingham CCG,West Midlands,2035,E38000144,53843,0.123,12.3
+NHS Scarborough and Ryedale CCG,Yorkshire and the Humber,2035,E38000145,10732,0.112,11.2
+NHS Sheffield CCG,Yorkshire and the Humber,2035,E38000146,46003,0.088,8.8
+NHS Shropshire CCG,West Midlands,2035,E38000147,30590,0.107,10.7
+NHS Slough CCG,South East England,2035,E38000148,15478,0.119,11.9
+NHS Solihull CCG,West Midlands,2035,E38000149,18522,0.098,9.8
+NHS Somerset CCG,South West England,2035,E38000150,54344,0.107,10.7
+NHS South Cheshire CCG,North West England,2035,E38000151,15273,0.098,9.8
+NHS South Devon and Torbay CCG,South West England,2035,E38000152,29789,0.115,11.5
+NHS South East Staffordshire and Seisdon Peninsula CCG,West Midlands,2035,E38000153,19769,0.099,9.9
+NHS South Eastern Hampshire CCG,South East England,2035,E38000154,19238,0.1,10
+NHS South Gloucestershire CCG,South West England,2035,E38000155,22151,0.084,8.4
+NHS South Kent Coast CCG,South East England,2035,E38000156,21627,0.111,11.1
+NHS South Lincolnshire CCG,East Midlands,2035,E38000157,14108,0.101,10.1
+NHS South Manchester CCG,North West England,2035,E38000158,12798,0.082,8.2
+NHS South Norfolk CCG,East of England,2035,E38000159,24043,0.102,10.2
+NHS South Reading CCG,South East England,2035,E38000160,7838,0.08,8
+NHS South Sefton CCG,North West England,2035,E38000161,13656,0.103,10.3
+NHS South Tees CCG,North East England,2035,E38000162,23063,0.1,10
+NHS South Tyneside CCG,North East England,2035,E38000163,13502,0.105,10.5
+NHS South Warwickshire CCG,West Midlands,2035,E38000164,22651,0.094,9.4
+NHS South West Lincolnshire CCG,East Midlands,2035,E38000165,11867,0.101,10.1
+NHS South Worcestershire CCG,West Midlands,2035,E38000166,27942,0.101,10.1
+NHS Southampton CCG,South East England,2035,E38000167,18166,0.079,7.9
+NHS Southend CCG,East of England,2035,E38000168,16904,0.099,9.9
+NHS Southern Derbyshire CCG,East Midlands,2035,E38000169,47387,0.098,9.8
+NHS Southport and Formby CCG,North West England,2035,E38000170,11204,0.111,11.1
+NHS Southwark CCG,London,2035,E38000171,31758,0.102,10.2
+NHS St Helens CCG,North West England,2035,E38000172,15710,0.102,10.2
+NHS Stafford and Surrounds CCG,West Midlands,2035,E38000173,13273,0.096,9.6
+NHS Stockport CCG,North West England,2035,E38000174,24816,0.097,9.7
+NHS Stoke on Trent CCG,West Midlands,2035,E38000175,21840,0.098,9.8
+NHS Sunderland CCG,North East England,2035,E38000176,23412,0.098,9.8
+NHS Surrey Downs CCG,South East England,2035,E38000177,24566,0.089,8.9
+NHS Surrey Heath CCG,South East England,2035,E38000178,7626,0.089,8.9
+NHS Sutton CCG,London,2035,E38000179,17696,0.09,9
+NHS Swale CCG,South East England,2035,E38000180,10815,0.099,9.9
+NHS Swindon CCG,South West England,2035,E38000181,18836,0.091,9.1
+NHS Tameside and Glossop CCG,North West England,2035,E38000182,22670,0.103,10.3
+NHS Telford and Wrekin CCG,West Midlands,2035,E38000183,14570,0.099,9.9
+NHS Thanet CCG,South East England,2035,E38000184,15085,0.11,11
+NHS Thurrock CCG,East of England,2035,E38000185,14152,0.089,8.9
+NHS Tower Hamlets CCG,London,2035,E38000186,33614,0.103,10.3
+NHS Trafford CCG,North West England,2035,E38000187,19743,0.092,9.2
+NHS Vale of York CCG,Yorkshire and the Humber,2035,E38000188,28225,0.085,8.5
+NHS Vale Royal CCG,North West England,2035,E38000189,8353,0.097,9.7
+NHS Wakefield CCG,Yorkshire and the Humber,2035,E38000190,29701,0.1,10
+NHS Walsall CCG,West Midlands,2035,E38000191,26353,0.108,10.8
+NHS Waltham Forest CCG,London,2035,E38000192,31112,0.119,11.9
+NHS Wandsworth CCG,London,2035,E38000193,25011,0.083,8.3
+NHS Warrington CCG,North West England,2035,E38000194,17350,0.092,9.2
+NHS Warwickshire North CCG,West Midlands,2035,E38000195,16930,0.102,10.2
+NHS West Cheshire CCG,North West England,2035,E38000196,19625,0.097,9.7
+NHS West Essex CCG,East of England,2035,E38000197,27301,0.093,9.3
+NHS West Hampshire CCG,South East England,2035,E38000198,49761,0.095,9.5
+NHS West Kent CCG,South East England,2035,E38000199,40532,0.089,8.9
+NHS West Lancashire CCG,North West England,2035,E38000200,9191,0.096,9.6
+NHS West Leicestershire CCG,East Midlands,2035,E38000201,33593,0.091,9.1
+NHS West London CCG,London,2035,E38000202,20975,0.1,10
+NHS West Norfolk CCG,East of England,2035,E38000203,18572,0.114,11.4
+NHS West Suffolk CCG,East of England,2035,E38000204,21190,0.101,10.1
+NHS Wigan Borough CCG,North West England,2035,E38000205,27479,0.097,9.7
+NHS Wiltshire CCG,South West England,2035,E38000206,43219,0.098,9.8
+"NHS Windsor, Ascot and Maidenhead CCG",South East England,2035,E38000207,11581,0.088,8.8
+NHS Wirral CCG,North West England,2035,E38000208,27933,0.102,10.2
+NHS Wokingham CCG,South East England,2035,E38000209,12327,0.085,8.5
+NHS Wolverhampton CCG,West Midlands,2035,E38000210,26653,0.119,11.9
+NHS Wyre Forest CCG,West Midlands,2035,E38000211,9463,0.108,10.8
