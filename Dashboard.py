@@ -397,7 +397,7 @@ else:
 # Load the shapefile containing region boundaries
 #@st.cache_data
 def get_merged():
-    shapefile_path = 'Clinical_Commissioning_Groups_July_2015_FEB_in_England.shp'
+    shapefile_path = '/Clinical_Commissioning_Groups_July_2015_FEB_in_England.shp'
     regions_gdf_shp = gpd.read_file(shapefile_path)
     regions_gdf= pd.read_csv("CCG.csv",encoding="ISO-8859-1")
     regions_gdf1= pd.read_csv("CCG2.csv",encoding="ISO-8859-1")
